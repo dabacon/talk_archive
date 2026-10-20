@@ -1,0 +1,36 @@
+slug: "2004-oregon-state-2004-seminar"
+title: "sihT esraP oT yrT"
+venue: "Oregon State 2004 Seminar"
+year: 2004
+date: "2004-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "seminaroregonstate2.ppt"
+primary_path: "talks/2004-oregon-state-2004-seminar/original/seminaroregonstate2.ppt"
+primary_size_kb: 7625
+has_pdf: true
+pdf_path: "talks/2004-oregon-state-2004-seminar/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2004-oregon-state-2004-seminar/thumb.png"
+slide_count: 58
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Quantum Simulation & Chemistry"
+drafts:
+  - name: "seminaroregonstate1.ppt"
+    path: "talks/2004-oregon-state-2004-seminar/original/drafts/seminaroregonstate1.ppt"
+    size_kb: 3144
+  - name: "seminarosu1.ppt"
+    path: "talks/2004-oregon-state-2004-seminar/original/drafts/seminarosu1.ppt"
+    size_kb: 2073
+  - name: "seminaroregonstate.ppt"
+    path: "talks/2004-oregon-state-2004-seminar/original/drafts/seminaroregonstate.ppt"
+    size_kb: 3619
+  - name: "seminarosu1ddd.ppt"
+    path: "talks/2004-oregon-state-2004-seminar/original/drafts/seminarosu1ddd.ppt"
+    size_kb: 1963
+media: []
+ps_files: []
+summary_snippet: "sihT esraP oT yrT • Quantum Computers — That Fix Themselves — Dave Bacon — Caltech • TRS-80 Color Computer — The Trash 80 — What happens when you try to — simulate orbits but you don’t know • Quantum Machines — The coming of the age of quantum machines. — Moore’s Law — Molecular Transistors • Outline — Introduction to Quantum Error Correction — Quantum Codes in Physical Systems — The Future"

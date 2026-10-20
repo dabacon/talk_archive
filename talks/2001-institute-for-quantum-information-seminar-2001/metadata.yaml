@@ -1,0 +1,31 @@
+slug: "2001-institute-for-quantum-information-seminar-2001"
+title: "Will this hill"
+venue: "Institute for Quantum Information Seminar 2001"
+year: 2001
+date: "2001-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "iqipres2.ppt"
+primary_path: "talks/2001-institute-for-quantum-information-seminar-2001/original/iqipres2.ppt"
+primary_size_kb: 324
+has_pdf: true
+pdf_path: "talks/2001-institute-for-quantum-information-seminar-2001/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2001-institute-for-quantum-information-seminar-2001/thumb.png"
+slide_count: 23
+tags:
+  - "Quantum Error Correction"
+  - "Decoherence-Free Subspaces"
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts:
+  - name: "iqipres1.ppt"
+    path: "talks/2001-institute-for-quantum-information-seminar-2001/original/drafts/iqipres1.ppt"
+    size_kb: 425
+  - name: "iqipres.ppt"
+    path: "talks/2001-institute-for-quantum-information-seminar-2001/original/drafts/iqipres.ppt"
+    size_kb: 160
+media: []
+ps_files: []
+summary_snippet: "Will this hill — ever end? — Making Decoherence Run Uphill — (carrying 99 lbs., uphill both ways, in the snow) • Fault-Tolerant Quantum Error Correction — Experimental Coherent Control of Quantum Systems — Great White Decoherence Sharks — Fight the Gap • Simpleton — “few qubit” methods for suppression of decoherence — realistic physical interactions (no ten-body interactions, consider geometry) — "

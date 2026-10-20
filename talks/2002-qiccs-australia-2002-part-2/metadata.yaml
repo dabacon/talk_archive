@@ -1,0 +1,37 @@
+slug: "2002-qiccs-australia-2002-part-2"
+title: "Fault-Tolerant Quantum"
+venue: "QICCS Australia 2002 - Part 2"
+year: 2002
+date: "2002-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qicss2final.ppt"
+primary_path: "talks/2002-qiccs-australia-2002-part-2/original/qicss2final.ppt"
+primary_size_kb: 7774
+has_pdf: true
+pdf_path: "talks/2002-qiccs-australia-2002-part-2/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2002-qiccs-australia-2002-part-2/thumb.png"
+slide_count: 43
+tags:
+  - "Quantum Error Correction"
+drafts:
+  - name: "qicss2.ppt"
+    path: "talks/2002-qiccs-australia-2002-part-2/original/drafts/qicss2.ppt"
+    size_kb: 2002
+  - name: "plentyatop.ppt"
+    path: "talks/2002-qiccs-australia-2002-part-2/original/drafts/plentyatop.ppt"
+    size_kb: 1994
+  - name: "specialqicss.ppt"
+    path: "talks/2002-qiccs-australia-2002-part-2/original/drafts/specialqicss.ppt"
+    size_kb: 746
+media:
+  - name: "sound001.wav"
+    path: "talks/2002-qiccs-australia-2002-part-2/original/sound001.wav"
+    size_kb: 1
+  - name: "sound001.wav"
+    path: "talks/2002-qiccs-australia-2002-part-2/original/sound001.wav"
+    size_kb: 34
+ps_files: []
+summary_snippet: "Fault-Tolerant Quantum — Computation — Dave Bacon — Institute for Quantum Information • Mysterious Extra Slide — Please Do Not Read This • Quick Review — “The past exists only as recorded in the present.” • Old School • Pauli Group — Facts"

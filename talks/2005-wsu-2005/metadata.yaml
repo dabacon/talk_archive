@@ -1,0 +1,26 @@
+slug: "2005-wsu-2005"
+title: "Test Slide"
+venue: "WSU 2005"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "WSU01.ppt"
+primary_path: "talks/2005-wsu-2005/original/WSU01.ppt"
+primary_size_kb: 10393
+has_pdf: true
+pdf_path: "talks/2005-wsu-2005/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-wsu-2005/thumb.png"
+slide_count: 56
+tags:
+  - "Quantum Error Correction"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "WSU 2005.ppt"
+    path: "talks/2005-wsu-2005/original/drafts/WSU 2005.ppt"
+    size_kb: 9
+media: []
+ps_files: []
+summary_snippet: "SAT — MCAT — GRE — TOEFL • Quantum Computing in 2020 — Dave Bacon — Santa Fe Institute • Apologies • 20th Century Reduced Redux — Physics — Computation — elucidation and verification of • The Future — Computer Chip Feature Sizes — Quantum Theory — The Future of Computing"

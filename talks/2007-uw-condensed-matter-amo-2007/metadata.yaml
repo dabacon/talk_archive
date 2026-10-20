@@ -1,0 +1,24 @@
+slug: "2007-uw-condensed-matter-amo-2007"
+title: "Obligatory Feynman Anecdote"
+venue: "UW Condensed Matter AMO 2007"
+year: 2007
+date: "2007-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "Dave Bacon ftaqc.ppt"
+primary_path: "talks/2007-uw-condensed-matter-amo-2007/original/Dave Bacon ftaqc.ppt"
+primary_size_kb: 8640
+has_pdf: true
+pdf_path: "talks/2007-uw-condensed-matter-amo-2007/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2007-uw-condensed-matter-amo-2007/thumb.png"
+slide_count: 55
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "When Physics and Computer Science Collide — A Cross Cultural Extravaganza — Dave Bacon — Department of Computer Science & Engineering • Err…can you — fix my computer? — Smaller transistors, please! • Biologist — Physicist — Wow that biophysicist sure knows a lot of physics! — Wow that biophysicist sure knows a lot of biology! • My Goal — Quantum — Algorithms — Fault-Tolerant • Quantum Computer? — "

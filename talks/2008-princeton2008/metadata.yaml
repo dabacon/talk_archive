@@ -1,0 +1,23 @@
+slug: "2008-princeton2008"
+title: "Quantum Algorithms Using Clebsch-Gordan Transforms"
+venue: "Princeton2008"
+year: 2008
+date: "2008-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "princeton.ppt"
+primary_path: "talks/2008-princeton2008/original/princeton.ppt"
+primary_size_kb: 2703
+has_pdf: true
+pdf_path: "talks/2008-princeton2008/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-princeton2008/thumb.png"
+slide_count: 65
+tags:
+  - "Adiabatic Quantum Computing"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Dave Bacon — University of Washington • Quantum Computers — 18819881292060796383869723946165043 — 98071635633794173827007633564229888 — 59715234665485319060606504743045317 • “Only time will tell if and when the problems of building a — quantum computer can be overcome…. the development — of a fully operational quantum computer would imperil — our personal privacy, destroy electronic commerce and •"

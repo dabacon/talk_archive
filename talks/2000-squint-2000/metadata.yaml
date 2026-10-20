@@ -1,0 +1,37 @@
+slug: "2000-squint-2000"
+title: "Whaley Group"
+venue: "Squint 2000"
+year: 2000
+date: "2000-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "squint00c.ppt"
+primary_path: "talks/2000-squint-2000/original/squint00c.ppt"
+primary_size_kb: 378
+has_pdf: true
+pdf_path: "talks/2000-squint-2000/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2000-squint-2000/thumb.png"
+slide_count: 16
+tags:
+  - "Quantum Error Correction"
+  - "Decoherence-Free Subspaces"
+  - "Hidden Subgroup Problem"
+  - "Quantum Simulation & Chemistry"
+drafts:
+  - name: "squint00d.ppt"
+    path: "talks/2000-squint-2000/original/drafts/squint00d.ppt"
+    size_kb: 286
+  - name: "squint00b.ppt"
+    path: "talks/2000-squint-2000/original/drafts/squint00b.ppt"
+    size_kb: 271
+  - name: "squint00a.ppt"
+    path: "talks/2000-squint-2000/original/drafts/squint00a.ppt"
+    size_kb: 208
+  - name: "squint00.ppt"
+    path: "talks/2000-squint-2000/original/drafts/squint00.ppt"
+    size_kb: 112
+media: []
+ps_files: []
+summary_snippet: "Dave Bacon — University of California Berkeley — Whaley Group • U(2) — Universal Quantum Computer — ≡ a quantum computer which can be programmed to perform any algorithmic manipulation on quantum information. — Set of Universal Quantum Gates • Look, Al, I’ve got this quantum system in my lab where I can turn on and off such-and-such an interaction and perform su — Hmmm….. — Well, Bob, your such-an"

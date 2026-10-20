@@ -1,0 +1,23 @@
+slug: "2011-mit2011"
+title: "Graph Isomorphism Beyond the Hidden Subgroup Problem"
+venue: "MIT2011"
+year: 2011
+date: "2011-05-06"
+category: "talk"
+primary_format: "KEY"
+primary_file: "GI.key.zip"
+primary_path: "talks/2011-mit2011/original/GI.key.zip"
+primary_size_kb: 9367
+has_pdf: true
+pdf_path: "talks/2011-mit2011/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2011-mit2011/thumb.png"
+slide_count: 48
+tags:
+  - "Hidden Subgroup Problem"
+  - "Graph Isomorphism"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Graph Isomorphism Beyond the Hidden Subgroup Problem | Dave Bacon | University of Washington • Happy Star Wars Day! • Namespace Overload | Institute for Extreme Quantum Computing | Institute for Extreme Quantum Information | Institute for Extreme Quantum Information Science • Graph Isomorphism | GI: Given two graphs G1=(V1,E1) and G2=(V2,E2), | does there exist a bijection, f, from vertex set V1 t"

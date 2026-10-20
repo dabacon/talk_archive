@@ -1,0 +1,24 @@
+slug: "2006-sandia-2006"
+title: "Novel Methods for Robust"
+venue: "Sandia 2006"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "sandia.ppt"
+primary_path: "talks/2006-sandia-2006/original/sandia.ppt"
+primary_size_kb: 3871
+has_pdf: true
+pdf_path: "talks/2006-sandia-2006/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-sandia-2006/thumb.png"
+slide_count: 55
+tags:
+  - "Self-Correcting Quantum Memory"
+  - "Quantum Simulation & Chemistry"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Novel Methods for Robust — Quantum Computation — Dave Bacon — Department of Computer Science & Engineering • 1994 — Peter Shor discovers that a computer which uses — quantum data and quantum gates, can be used to efficiently factor and hence break the most widely used public key cryptosystems — 18819881292060796383869723946165043 • Quantum Simulation — Science 9 September 2005: Vol. 309. no. 5741,"

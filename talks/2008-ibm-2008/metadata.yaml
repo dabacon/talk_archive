@@ -1,0 +1,24 @@
+slug: "2008-ibm-2008"
+title: "Crazy Quantum Concatenated Code Hamiltonians*"
+venue: "IBM 2008"
+year: 2008
+date: "2008-07-10"
+category: "talk"
+primary_format: "KEY"
+primary_file: "ibm.key.zip"
+primary_path: "talks/2008-ibm-2008/original/ibm.key.zip"
+primary_size_kb: 14091
+has_pdf: true
+pdf_path: "talks/2008-ibm-2008/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2008-ibm-2008/thumb.png"
+slide_count: 62
+tags:
+  - "Quantum Error Correction"
+  - "Self-Correcting Quantum Memory"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Crazy Quantum Concatenated Code Hamiltonians* | Dave Bacon | University of Washington | * This proposal, like all proposals for quantum computation, relies on speculative technology, does not in its current form take into account all possib • The Quantum Computing Enemy | Decoherence | Imprecise control | The Solution? • Fight Physics with Physics • The Computing Phase • Fundamental Question | Wha"

@@ -1,0 +1,30 @@
+slug: "2004-toronto-2004"
+title: "In Search of a Magic Bottle of Error-Be-Gone"
+venue: "Toronto 2004"
+year: 2004
+date: "2004-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qec3.ppt"
+primary_path: "talks/2004-toronto-2004/original/qec3.ppt"
+primary_size_kb: 2134
+has_pdf: true
+pdf_path: "talks/2004-toronto-2004/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2004-toronto-2004/thumb.png"
+slide_count: 18
+tags:
+  - "Quantum Error Correction"
+  - "Topological Quantum Computing"
+  - "Quantum Architecture & Ion Traps"
+drafts:
+  - name: "qec2.ppt"
+    path: "talks/2004-toronto-2004/original/drafts/qec2.ppt"
+    size_kb: 5892
+  - name: "qec1.ppt"
+    path: "talks/2004-toronto-2004/original/drafts/qec1.ppt"
+    size_kb: 5602
+media: []
+ps_files: []
+summary_snippet: "Dave Bacon — Caltech — Department of Physics — Institute for Quantum Information • The Future — Visualize 2040: — Experimentalists all just thought — what will a quantum computer look like? • Fault Tolerant Quantum — Architecture? — At the lowest level we must perform quantum error — correction and use fault-tolerant techniques. • “Best?” — Objection: BEST depends on strengths and weaknesses — of "

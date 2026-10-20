@@ -1,0 +1,26 @@
+slug: "2011-newdirections2011"
+title: "Quantifying Time Travel"
+venue: "newdirections2011"
+year: 2011
+date: "2011-04-30"
+category: "talk"
+primary_format: "KEY"
+primary_file: "timetravelfoundations.key.zip"
+primary_path: "talks/2011-newdirections2011/original/timetravelfoundations.key.zip"
+primary_size_kb: 10133
+has_pdf: true
+pdf_path: "talks/2011-newdirections2011/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2011-newdirections2011/thumb.png"
+slide_count: 52
+tags:
+  - "Quantum Gravity & Time Travel"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "Untitled.key.zip"
+    path: "talks/2011-newdirections2011/original/drafts/Untitled.key.zip"
+    size_kb: 1608
+media: []
+ps_files: []
+summary_snippet: "Quantifying Time Travel | Dave Bacon | Department of Computer Science & Engineering | Department of Physics • At Christmas Time I | Do Foundations • Physics => Computer Science | Today I will act like a theoretical computer scientist and try to think simply about “models of computing” or “information processing protocols.” If you are a physicist please cover your ears if it gets to be t • Theoreti"

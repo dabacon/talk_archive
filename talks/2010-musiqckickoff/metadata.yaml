@@ -1,0 +1,35 @@
+slug: "2010-musiqckickoff"
+title: "Quantum State and Process Tomography"
+venue: "MUSIQCKickoff"
+year: 2010
+date: "2010-10-14"
+category: "grant"
+primary_format: "KEY"
+primary_file: "KickItOff.key.zip"
+primary_path: "talks/2010-musiqckickoff/original/KickItOff.key.zip"
+primary_size_kb: 7727
+has_pdf: true
+pdf_path: "talks/2010-musiqckickoff/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2010-musiqckickoff/thumb.png"
+slide_count: 32
+tags:
+  - "Quantum Architecture & Ion Traps"
+  - "Program Review"
+drafts:
+  - name: "KickItOff.ppt"
+    path: "talks/2010-musiqckickoff/original/drafts/KickItOff.ppt"
+    size_kb: 2973
+media:
+  - name: "Qw.mp4"
+    path: "talks/2010-musiqckickoff/original/Qw.mp4"
+    size_kb: 187
+  - name: "Qw.mov"
+    path: "talks/2010-musiqckickoff/original/Qw.mov"
+    size_kb: 1
+  - name: "Qw.mp4"
+    path: "talks/2010-musiqckickoff/original/Qw.mp4"
+    size_kb: 187
+ps_files: []
+summary_snippet: "Quantum State and Process Tomography | (and Quantum Algorithms) | Dave Bacon (University of Washington) | MUSIQC Kickoff Meeting • QW (“Q”-Dub) Theory Group | Dave Bacon | Aram Harrow | Gregory Crosswhite (Physics) • Overview | To verify the workings of the MUSIQC prototypes, we must provide tools for characterizing the basic operating units acting alone and acting together. | For small systems th"

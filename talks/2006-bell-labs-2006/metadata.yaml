@@ -1,0 +1,23 @@
+slug: "2006-bell-labs-2006"
+title: "This Page Left Unintentionally Blank"
+venue: "Bell Labs 2006"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "BellDabacon06.ppt"
+primary_path: "talks/2006-bell-labs-2006/original/BellDabacon06.ppt"
+primary_size_kb: 9609
+has_pdf: true
+pdf_path: "talks/2006-bell-labs-2006/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-bell-labs-2006/thumb.png"
+slide_count: 31
+tags:
+  - "Quantum Error Correction"
+  - "Self-Correcting Quantum Memory"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "This Page Left Unintentionally Blank • Self-Correcting Quantum Computers — Dave Bacon — Department of Computer Science & Engineering — University of Washington • My Mortal Enemy • Success Stories — Life — Computers — How is it that nearly error free behavior can arise from • Dreamboat Quantum Computer — qubits — Quantum algorithm — 1. Initialize"

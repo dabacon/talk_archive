@@ -1,0 +1,27 @@
+slug: "2006-uw-architecture-2006"
+title: "Designing Quantum Computers"
+venue: "UW Architecture 2006"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "architecture.ppt"
+primary_path: "talks/2006-uw-architecture-2006/original/architecture.ppt"
+primary_size_kb: 1412
+has_pdf: true
+pdf_path: "talks/2006-uw-architecture-2006/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-uw-architecture-2006/thumb.png"
+slide_count: 9
+tags:
+  - "Quantum Error Correction"
+  - "Self-Correcting Quantum Memory"
+  - "Quantum Architecture & Ion Traps"
+drafts:
+  - name: "theory.ppt"
+    path: "talks/2006-uw-architecture-2006/original/drafts/theory.ppt"
+    size_kb: 893
+media: []
+ps_files: []
+summary_snippet: "Designing Quantum Computers — Dave Bacon • The Quantum Dream — Quantum machines will change our lives. — Break public key cryptosystems — Simulate quantum systems • The Quest — Building a quantum computer: — 100s of physicists (worldwide) working on hardware for quantum computers. — Cusp of large efforts to build scalable quantum computers. • A Quantum Theorem — QC — “decoherence” — “imprecision” "

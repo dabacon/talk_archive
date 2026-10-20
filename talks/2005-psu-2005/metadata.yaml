@@ -1,0 +1,22 @@
+slug: "2005-psu-2005"
+title: "Test Slide"
+venue: "PSU 2005"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "psu.ppt"
+primary_path: "talks/2005-psu-2005/original/psu.ppt"
+primary_size_kb: 7423
+has_pdf: true
+pdf_path: "talks/2005-psu-2005/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-psu-2005/thumb.png"
+slide_count: 58
+tags:
+  - "Adiabatic Quantum Computing"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "SAT — MCAT — GRE • The Power of Quantum Algorithms — Dave Bacon — Department of Computer Science & Engineering — University of Washington • Apologies • What Do You See? — SOFTWARE — Email — The Web • What Do Physicists See? — A New Phase of Matter"

@@ -1,0 +1,27 @@
+slug: "2008-poster-quist2"
+title: "DF Subspaces and Subsystems:"
+venue: "Poster - quist2"
+year: 2008
+date: "2008-01-01"
+category: "poster"
+primary_format: "PPT"
+primary_file: "quist2.ppt"
+primary_path: "talks/2008-poster-quist2/original/quist2.ppt"
+primary_size_kb: 155
+has_pdf: true
+pdf_path: "talks/2008-poster-quist2/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-poster-quist2/thumb.png"
+slide_count: 6
+tags:
+  - "Quantum Error Correction"
+  - "Decoherence-Free Subspaces"
+  - "Poster"
+drafts:
+  - name: "quist.ppt"
+    path: "talks/2008-poster-quist2/original/drafts/quist.ppt"
+    size_kb: 188
+media: []
+ps_files: []
+summary_snippet: "control of decoherence via Subspace/Subsystem selection — collective decoherence eliminable - condensed phase QC/QM — fault tolerant universal quantum computation with minimal — decoherence • System — Bath — System evolution — Bath evolution • bath boson mode, — examples/candidates: — quantum optics “Dicke subradiance” — solid state systems at low temperatures, • Information encoded over the degen"

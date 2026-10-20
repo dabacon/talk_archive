@@ -1,0 +1,25 @@
+slug: "2008-poster-itpposter"
+title: "Ladder Qubits"
+venue: "Poster - itpposter"
+year: 2008
+date: "2008-01-01"
+category: "poster"
+primary_format: "PPT"
+primary_file: "itpposter.ppt"
+primary_path: "talks/2008-poster-itpposter/original/itpposter.ppt"
+primary_size_kb: 183
+has_pdf: true
+pdf_path: "talks/2008-poster-itpposter/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-poster-itpposter/thumb.png"
+slide_count: 16
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Topological Quantum Computing"
+  - "Poster"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Ladder Qubits — Analysis of a Spin Ladder with Quantum Error Correcting and Detecting Properties — Dave Bacon — Institute for Quantum Information • Nature’s Computers — The Computer Science Assumption: Discrete storage and discrete manipulation of information can be robustly enacted. — The theory of classical fault tolerance guarantees this assumption for classical information, but in  • Oh Brave "

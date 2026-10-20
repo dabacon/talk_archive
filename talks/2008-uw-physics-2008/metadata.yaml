@@ -1,0 +1,57 @@
+slug: "2008-uw-physics-2008"
+title: "The War to Build a Quantum Computer"
+venue: "UW Physics 2008"
+year: 2008
+date: "2008-10-20"
+category: "talk"
+primary_format: "KEY"
+primary_file: "UW Physics 5.key.zip"
+primary_path: "talks/2008-uw-physics-2008/original/UW Physics 5.key.zip"
+primary_size_kb: 13977
+has_pdf: true
+pdf_path: "talks/2008-uw-physics-2008/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2008-uw-physics-2008/thumb.png"
+slide_count: 91
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts:
+  - name: "UW Physics 4.key.zip"
+    path: "talks/2008-uw-physics-2008/original/drafts/UW Physics 4.key.zip"
+    size_kb: 10800
+  - name: "UW Physics3.key.zip"
+    path: "talks/2008-uw-physics-2008/original/drafts/UW Physics3.key.zip"
+    size_kb: 7217
+  - name: "UW Physics2.key.zip"
+    path: "talks/2008-uw-physics-2008/original/drafts/UW Physics2.key.zip"
+    size_kb: 6022
+  - name: "UWPhysicsColloquium.key.zip"
+    path: "talks/2008-uw-physics-2008/original/drafts/UWPhysicsColloquium.key.zip"
+    size_kb: 13884
+  - name: "UW Physics.key.zip"
+    path: "talks/2008-uw-physics-2008/original/drafts/UW Physics.key.zip"
+    size_kb: 2943
+  - name: "UWPhysicsColloquium.ppt"
+    path: "talks/2008-uw-physics-2008/original/drafts/UWPhysicsColloquium.ppt"
+    size_kb: 6988
+media:
+  - name: "Qw.mp4"
+    path: "talks/2008-uw-physics-2008/original/Qw.mp4"
+    size_kb: 187
+  - name: "Qw.mov"
+    path: "talks/2008-uw-physics-2008/original/Qw.mov"
+    size_kb: 2
+  - name: "Qw.mp4"
+    path: "talks/2008-uw-physics-2008/original/Qw.mp4"
+    size_kb: 187
+  - name: "Qw.mov"
+    path: "talks/2008-uw-physics-2008/original/Qw.mov"
+    size_kb: 1
+  - name: "Qw.mp4"
+    path: "talks/2008-uw-physics-2008/original/Qw.mp4"
+    size_kb: 187
+ps_files: []
+summary_snippet: "The War to Build a Quantum Computer | Dave Bacon | University of Washington • ENIAC, 1946 | 17,468 vacuum tubes | 7,200 crystal diodes | 1,500 relays • Alternative History | Imagine: no transistors, no integrated circuits... | Could we build a computer out of unreliable components? | J. von Neumann, “Probabilistic Logics and the Synthesis of Reliable Organism from Unreliable Components” 19 • Von N"

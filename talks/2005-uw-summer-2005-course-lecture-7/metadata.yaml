@@ -1,0 +1,23 @@
+slug: "2005-uw-summer-2005-course-lecture-7"
+title: "CSEP 590tv: Quantum Computing"
+venue: "UW Summer 2005 Course - Lecture 7"
+year: 2005
+date: "2005-01-01"
+category: "course"
+primary_format: "PPT"
+primary_file: "Lecture7.ppt"
+primary_path: "talks/2005-uw-summer-2005-course-lecture-7/original/Lecture7.ppt"
+primary_size_kb: 2768
+has_pdf: true
+pdf_path: "talks/2005-uw-summer-2005-course-lecture-7/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-uw-summer-2005-course-lecture-7/thumb.png"
+slide_count: 63
+tags:
+  - "Complexity Theory & Automata"
+  - "Course Lecture"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "CSEP 590tv: Quantum Computing — Dave Bacon — Aug 3, 2005 — Today’s Menu • Administrivia — Hand in HW #5. — Pick up HW solutions. — Pick up the Take Home Final! • Review — David — Deutsch — Richard • Review — qubits — Deutsch-Jozsa Algorithm — Bernsetein-Vazirani Algorithm • Review — Dan — Simon — 1994: Simon’s Algorithm"

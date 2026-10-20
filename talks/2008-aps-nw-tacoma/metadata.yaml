@@ -1,0 +1,22 @@
+slug: "2008-aps-nw-tacoma"
+title: "Building Robust Qubits"
+venue: "APS NW Tacoma"
+year: 2008
+date: "2008-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "apsnw.ppt"
+primary_path: "talks/2008-aps-nw-tacoma/original/apsnw.ppt"
+primary_size_kb: 10046
+has_pdf: true
+pdf_path: "talks/2008-aps-nw-tacoma/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-aps-nw-tacoma/thumb.png"
+slide_count: 34
+tags:
+  - "Quantum Error Correction"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Building Robust Qubits — Dave Bacon — Department of Computer Science & Engineering — University of Washington • My Mortal Enemy • Success Stories — Life — Computers — How is it that nearly error free behavior can arise from • What is a Quantum Computer? — qubits — Quantum algorithm — 1. Initialize • Why Build a Quantum Computer? — Original answer: [Peter Shor 1994] — 18819881292060796383869723 — 9"

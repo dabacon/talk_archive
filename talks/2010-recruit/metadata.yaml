@@ -1,0 +1,25 @@
+slug: "2010-recruit"
+title: "Graph Isomorphism"
+venue: "recruit"
+year: 2010
+date: "2010-03-14"
+category: "talk"
+primary_format: "KEY"
+primary_file: "recruit.key.zip"
+primary_path: "talks/2010-recruit/original/recruit.key.zip"
+primary_size_kb: 2486
+has_pdf: true
+pdf_path: "talks/2010-recruit/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2010-recruit/thumb.png"
+slide_count: 6
+tags:
+  - "Adiabatic Quantum Computing"
+  - "Quantum Walks"
+  - "Topological Quantum Computing"
+  - "Graph Isomorphism"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Graph Isomorphism | Are these isomorphic graphs? | Good way to determine this in practice: | compare eigenvalues of adjacency matrices • Physicists Meet Graph Isomorphism | Adjacency matrix? Think random walk. | Two walkers? | Two walkers that are bosons? • Physicists Meet Graph Isomorphism | Two walkers that are hard-core boson? | (bosons that can’t sit on top of each other) | Physicist: seems to"

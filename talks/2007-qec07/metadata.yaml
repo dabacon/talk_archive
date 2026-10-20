@@ -1,0 +1,24 @@
+slug: "2007-qec07"
+title: "I EEE A O OOA"
+venue: "QEC07"
+year: 2007
+date: "2007-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qec07tutorial.ppt"
+primary_path: "talks/2007-qec07/original/qec07tutorial.ppt"
+primary_size_kb: 20919
+has_pdf: true
+pdf_path: "talks/2007-qec07/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2007-qec07/thumb.png"
+slide_count: 55
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Topological Quantum Computing"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "I EEE A O OOA • Topological Codes and Subsystem Codes and Why We Should Care About Them… — Dave Bacon — Department of Computer Science & Engineering — University of Washington, Seattle, WA • 1956 — Shockley, Bardeen, Brattain — 2000 — Alferov, Kroemer, Kilby • Can We Make Physical Devices — Which Robustly Quantum — Compute? • Our Panacea: Threshold Theorem — QC — “decoherence” — “imprecision”"

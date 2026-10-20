@@ -1,0 +1,26 @@
+slug: "2009-perimeter09"
+title: "Adiabatic Gate Teleportation"
+venue: "Perimeter09"
+year: 2009
+date: "2009-09-14"
+category: "talk"
+primary_format: "KEY"
+primary_file: "Perimeter09.key.zip"
+primary_path: "talks/2009-perimeter09/original/Perimeter09.key.zip"
+primary_size_kb: 16136
+has_pdf: true
+pdf_path: "talks/2009-perimeter09/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2009-perimeter09/thumb.png"
+slide_count: 55
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Hidden Subgroup Problem"
+  - "Topological Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Adiabatic Gate Teleportation | & Its Applications | Dave Bacon | Department of Computer Science & Engineering • Oops, I forgot to strap myself in! | Look over there! | A jackalope! | I’ll bet most states are too entangled to be used as computational resources • ENIAC, 1946 | 17,468 vacuum tubes | 7,200 crystal diodes | 1,500 relays • Alternative History | Imagine: no transistors, no integrated cir"

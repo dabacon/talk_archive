@@ -1,0 +1,23 @@
+slug: "2006-boulder-2006"
+title: "THS SNTNC HS N VWLS"
+venue: "Boulder 2006"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "ion.ppt"
+primary_path: "talks/2006-boulder-2006/original/ion.ppt"
+primary_size_kb: 4554
+has_pdf: true
+pdf_path: "talks/2006-boulder-2006/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2006-boulder-2006/thumb.png"
+slide_count: 64
+tags:
+  - "Quantum Error Correction"
+  - "Quantum Architecture & Ion Traps"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "THS SNTNC HS N VWLS • Spatial Locality and — Robust Quantum Computation — Dave Bacon — Department of Computer Science & Engineering • I am a Quantum Information Science — Theorist, but….. — Trapped Ions Saved My Life • Experimental Demonstration — collective phase errors: — ambient conditions! — (see also Kwiat et al., Science 2000) • Building a Quantum Computer — Is Full of Problems — Is a Quantu"

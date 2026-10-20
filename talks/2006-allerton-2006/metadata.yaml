@@ -1,0 +1,25 @@
+slug: "2006-allerton-2006"
+title: "This Page Left Unintentionally Blank"
+venue: "Allerton 2006"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "davebaconallerton.ppt"
+primary_path: "talks/2006-allerton-2006/original/davebaconallerton.ppt"
+primary_size_kb: 11309
+has_pdf: true
+pdf_path: "talks/2006-allerton-2006/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-allerton-2006/thumb.png"
+slide_count: 30
+tags:
+  - "Quantum Error Correction"
+drafts:
+  - name: "allerton.ppt"
+    path: "talks/2006-allerton-2006/original/drafts/allerton.ppt"
+    size_kb: 11306
+media: []
+ps_files: []
+summary_snippet: "This Page Left Unintentionally Blank • Quantum Error Correcting Subsystem Codes — and Fault-Tolerant Quantum Computing — Dave Bacon — Department of Computer Science & Engineering • Talk Design Strategy • Bit, Pbit, and Qubit — Configurations: — Description: — Observation: • There Are No Bits — bits — pbits — qubits"

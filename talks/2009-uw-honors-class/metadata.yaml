@@ -1,0 +1,22 @@
+slug: "2009-uw-honors-class"
+title: "Quantum Computing"
+venue: "UW Honors Class"
+year: 2009
+date: "2009-05-27"
+category: "talk"
+primary_format: "KEY"
+primary_file: "honors.key.zip"
+primary_path: "talks/2009-uw-honors-class/original/honors.key.zip"
+primary_size_kb: 14868
+has_pdf: true
+pdf_path: "talks/2009-uw-honors-class/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2009-uw-honors-class/thumb.png"
+slide_count: 132
+tags:
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing | Dave Bacon | University of Washington • Question: | Dave Bacon | University of Washington | Why is computation possible? • A Mystery | bits | behind the bit | How is possible? • Category Errors | Analog / Digital | 0.998213123.... | vs • Analog Probabilistic | Digital Deterministic | bits | behind the bit"

@@ -1,0 +1,28 @@
+slug: "2006-innsbruck-06"
+title: "This Space Left Intentionally Blank"
+venue: "Innsbruck 06"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "Innsbruck06.ppt"
+primary_path: "talks/2006-innsbruck-06/original/Innsbruck06.ppt"
+primary_size_kb: 10210
+has_pdf: true
+pdf_path: "talks/2006-innsbruck-06/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-innsbruck-06/thumb.png"
+slide_count: 56
+tags:
+  - "Quantum Error Correction"
+  - "Topological Quantum Computing"
+  - "Quantum Architecture & Ion Traps"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "Inns 06.ppt"
+    path: "talks/2006-innsbruck-06/original/drafts/Inns 06.ppt"
+    size_kb: 10210
+media: []
+ps_files: []
+summary_snippet: "This Space Left Intentionally Blank • Quantum Error Correcting Subsystem Codes — and Fault-Tolerant Quantum Computing — Dave Bacon — Department of Computer Science & Engineering • Paradise? • Environment — Problem Child — decoherence: — coherent superposition • My Mortal Enemy"

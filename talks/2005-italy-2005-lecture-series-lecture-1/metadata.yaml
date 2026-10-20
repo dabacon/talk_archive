@@ -1,0 +1,28 @@
+slug: "2005-italy-2005-lecture-series-lecture-1"
+title: "Quantum Computing"
+venue: "Italy 2005 Lecture Series - Lecture 1"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "ItalyLecture1.ppt"
+primary_path: "talks/2005-italy-2005-lecture-series-lecture-1/original/ItalyLecture1.ppt"
+primary_size_kb: 3196
+has_pdf: true
+pdf_path: "talks/2005-italy-2005-lecture-series-lecture-1/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-italy-2005-lecture-series-lecture-1/thumb.png"
+slide_count: 81
+tags:
+  - "Adiabatic Quantum Computing"
+  - "Quantum Simulation & Chemistry"
+  - "Quantum Teleportation & Gates"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "Lecture1.ppt"
+    path: "talks/2005-italy-2005-lecture-series-lecture-1/original/drafts/Lecture1.ppt"
+    size_kb: 8
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing — Dave Bacon — Department of Computer Science & Engineering — University of Washington • http://www.cs.washington.edu/homes/dabacon/teaching/siena — Slides also available at — Quantum Computing — Professor Mark Oskin (University of Washington, CS&E) • Warning! — Two foreign languages for the price of one speaker: — English and Quantum Theory — Do not be shy! • In the Beginning… —"

@@ -1,0 +1,40 @@
+slug: "2008-pmp-2008"
+title: "Quantum Computing"
+venue: "PMP 2008"
+year: 2008
+date: "2008-04-14"
+category: "talk"
+primary_format: "KEY"
+primary_file: "pmp3.key.zip"
+primary_path: "talks/2008-pmp-2008/original/pmp3.key.zip"
+primary_size_kb: 12321
+has_pdf: true
+pdf_path: "talks/2008-pmp-2008/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2008-pmp-2008/thumb.png"
+slide_count: 131
+tags:
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "pmp1.key.zip"
+    path: "talks/2008-pmp-2008/original/drafts/pmp1.key.zip"
+    size_kb: 6450
+  - name: "pmplecture.key.zip"
+    path: "talks/2008-pmp-2008/original/drafts/pmplecture.key.zip"
+    size_kb: 12327
+  - name: "pmp.key.zip"
+    path: "talks/2008-pmp-2008/original/drafts/pmp.key.zip"
+    size_kb: 5477
+  - name: "pmplecture.ppt"
+    path: "talks/2008-pmp-2008/original/drafts/pmplecture.ppt"
+    size_kb: 8930
+  - name: "pmpohno.key.zip"
+    path: "talks/2008-pmp-2008/original/drafts/pmpohno.key.zip"
+    size_kb: 10879
+  - name: "backup.key.zip"
+    path: "talks/2008-pmp-2008/original/drafts/backup.key.zip"
+    size_kb: 5851
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing | Dave Bacon | University of Washington • A Mystery | bits | behind the bit | How is possible? • Category Errors | Analog / Digital | 0.998213123.... | vs • Analog Probabilistic | Digital Deterministic | bits | behind the bit • Alternative Models | Analog Computers | Infinite precision analog computers can efficiently solve NP-complete problem | Probabilistic Computers"

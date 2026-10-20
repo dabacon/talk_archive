@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dave Bacon — Historical Talk & Lecture Archive</title>
+  <link rel="stylesheet" href="assets/style.css?v=6" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="eyebrow">Quantum Information • Computing • Physics • UW CSE</span>
+        <h1>Dave Bacon — Talk &amp; Lecture Archive</h1>
+        <p class="subtitle">
+          A historical preservation archive of colloquia, conference talks, academic posters, program briefings, and university course lectures (2000–2020), with repaired web-viewable slide PDFs and untouched original files (<code>.key</code>, <code>.ppt</code>, <code>.pptx</code>, <code>.ps</code>).
+        </p>
+      </div>
+      <div class="stats-grid" id="statsGrid">
+        <div class="stat-card">
+          <span class="stat-value" id="statTotal">143</span>
+          <span class="stat-label">Archived Decks</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value" id="statTalks">111</span>
+          <span class="stat-label">Talks &amp; Colloquia</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value" id="statCourses">10</span>
+          <span class="stat-label">Course Lectures</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value" id="statPostersGrants">22</span>
+          <span class="stat-label">Posters &amp; Briefings</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Interactive Curation Toolbar -->
+    <section id="curationBanner" class="curation-banner" hidden>
+      <div class="curation-top-row">
+        <div class="curation-title">
+          <span>🗂️ Interactive Archive Curation Mode</span>
+          <span style="font-size:0.8rem;font-weight:400;color:var(--text-muted);">
+            Click <b>✓ Keep</b> or <b>✕ Exclude</b> on cards, or open slides and press <kbd>K</kbd> (Keep &amp; Next), <kbd>X</kbd> (Exclude &amp; Next), <kbd>&larr;</kbd>/<kbd>&rarr;</kbd>
+          </span>
+        </div>
+        <div class="curation-counts" id="curationStatusPills">
+          <button class="curation-stat-pill active" data-cstatus="all" id="cPillAll">All (226)</button>
+          <button class="curation-stat-pill pill-keep" data-cstatus="keep" id="cPillKeep">✓ Kept (226)</button>
+          <button class="curation-stat-pill pill-exclude" data-cstatus="exclude" id="cPillExclude">✕ Excluded (0)</button>
+        </div>
+      </div>
+      <div class="curation-actions-row">
+        <span style="font-size:0.78rem;color:var(--text-muted);font-weight:600;">Quick Bulk Actions:</span>
+        <button class="btn" id="bulkExcludeCoursesBtn" title="Mark all 67 UW Course Lectures as Excluded">Exclude All Course Lectures (67)</button>
+        <button class="btn" id="bulkExcludeGrantsBtn" title="Mark all 24 Grant Review Briefings as Excluded">Exclude All Grant Reviews (24)</button>
+        <button class="btn" id="bulkExcludePostersBtn" title="Mark all 15 Academic Posters as Excluded">Exclude All Posters (15)</button>
+        <button class="btn" id="bulkExcludeShortBtn" title="Mark 1-3 slide fragments/quadcharts as Excluded">Exclude 1–3 Slide Fragments</button>
+        <button class="btn" id="bulkExcludeFilteredBtn" title="Exclude all entries currently shown below">Exclude Currently Filtered</button>
+        <button class="btn" id="bulkKeepFilteredBtn" title="Keep all entries currently shown below">Keep Currently Filtered</button>
+        <button class="btn" id="syncMdBtn" title="Reload checkboxes & titles edited in CURATE_TALKS.md">Sync from CURATE_TALKS.md</button>
+        <button class="btn btn-danger" id="purgeExcludedBtn" style="margin-left:auto;" title="Permanently delete Excluded talk folders from talks/ and manifest">Finalize &amp; Delete Excluded (0)</button>
+      </div>
+    </section>
+
+    <section class="controls-panel" aria-label="Archive Filters">
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2" fill="none">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input
+            type="search"
+            id="searchInput"
+            placeholder="Search titles, venues (QIP, SQUINT, SFI, Caltech, MIT, UW), topics, or slide text…"
+            autocomplete="off"
+          />
+          <button id="clearSearchBtn" class="clear-btn" title="Clear search" hidden>&times;</button>
+        </div>
+
+        <div class="sort-wrap">
+          <label for="formatFilter">Format:</label>
+          <select id="formatFilter">
+            <option value="all">All Formats</option>
+            <option value="KEY">Keynote (.key)</option>
+            <option value="PPT">PowerPoint (.ppt)</option>
+            <option value="PPTX">PowerPoint (.pptx)</option>
+            <option value="PDF">PDF (.pdf)</option>
+          </select>
+
+          <label for="sortSelect">Sort:</label>
+          <select id="sortSelect">
+            <option value="year-desc">Newest First</option>
+            <option value="year-asc">Chronological (2000 → 2020)</option>
+            <option value="title-asc">Title (A → Z)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filter-tabs-row">
+        <div class="category-tabs" id="categoryTabs" role="tablist">
+          <button class="tab-btn active" data-category="all">All Entries</button>
+          <button class="tab-btn" data-category="talk">Talks &amp; Colloquia</button>
+          <button class="tab-btn" data-category="poster">Posters</button>
+          <button class="tab-btn" data-category="grant">Grant Reviews</button>
+          <button class="tab-btn" data-category="course">UW Course Lectures</button>
+        </div>
+      </div>
+
+      <div class="filter-pills-row">
+        <span class="pill-group-label">Era / Year:</span>
+        <div class="pill-list" id="eraPills">
+          <button class="pill active" data-era="all">All Years</button>
+          <button class="pill" data-era="2000-2003">2000–2003 (Berkeley / Caltech)</button>
+          <button class="pill" data-era="2004-2006">2004–2006 (SFI / Early UW)</button>
+          <button class="pill" data-era="2007-2009">2007–2009 (UW CSE &amp; Physics)</button>
+          <button class="pill" data-era="2010-2020">2010–2020 (Keynote &amp; Later)</button>
+        </div>
+      </div>
+
+      <div class="filter-pills-row">
+        <span class="pill-group-label">Topics:</span>
+        <div class="pill-list" id="tagPills"></div>
+      </div>
+
+      <div class="results-bar">
+        <span id="resultsCount">Showing all archived presentations</span>
+        <button id="resetFiltersBtn" class="reset-link" hidden>Reset all filters</button>
+      </div>
+    </section>
+
+    <div class="archive-layout" id="archiveLayout">
+      <aside id="timelineRail" class="timeline-rail" aria-label="Career &amp; Year Timeline Navigator"></aside>
+      <section id="talksTimeline" class="talks-timeline"></section>
+    </div>
+  </main>
+
+  <!-- Slide Viewer & Archival Detail Modal -->
+  <div id="talkModal" class="modal-backdrop" hidden aria-hidden="true">
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-header">
+        <div style="flex:1;min-width:0;">
+          <div class="modal-badges" id="modalBadges"></div>
+          <h2 id="modalTitle">Talk Title</h2>
+          <p id="modalVenue" class="modal-venue"></p>
+        </div>
+        <div class="modal-curation-controls" id="modalCurationControls" hidden>
+          <button class="btn" id="modalPrevBtn" title="Previous talk (Left Arrow)">&larr; Prev</button>
+          <button class="btn btn-keep" id="modalKeepBtn" title="Keep talk & advance (K)">✓ Keep (K)</button>
+          <button class="btn btn-exclude" id="modalExcludeBtn" title="Exclude talk & advance (X)">✕ Exclude (X)</button>
+          <button class="btn" id="modalEditTitleBtn" title="Edit Title / Venue">✎ Edit</button>
+          <button class="btn" id="modalNextBtn" title="Next talk (Right Arrow)">Next &rarr;</button>
+        </div>
+        <button id="closeModalBtn" class="modal-close" aria-label="Close modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-pdf-pane">
+          <iframe id="modalPdfFrame" title="Slide Deck PDF Viewer" src="about:blank"></iframe>
+        </div>
+        <aside class="modal-meta-pane">
+          <div class="meta-section">
+            <h3>Archival Downloads</h3>
+            <div id="modalDownloads" class="download-list"></div>
+          </div>
+
+          <div class="meta-section" id="modalDraftsSection" hidden>
+            <h3>Preserved Earlier Drafts</h3>
+            <div id="modalDrafts" class="draft-list"></div>
+          </div>
+
+          <div class="meta-section" id="modalMediaSection" hidden>
+            <h3>Companion Media &amp; Recordings</h3>
+            <div id="modalMedia" class="draft-list"></div>
+          </div>
+
+          <div class="meta-section" id="modalSnippetSection">
+            <h3>Extracted Slide Text Preview</h3>
+            <p id="modalSnippet" class="snippet-box"></p>
+            <a id="modalNotesLink" class="notes-link" href="#" target="_blank" rel="noopener">View full extracted slide text (notes.md) &rarr;</a>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Preserved in <code>dabacon/talk_archive</code> • Original Keynote (<code>.key</code>), PowerPoint (<code>.ppt</code>/<code>.pptx</code>), PostScript (<code>.ps</code>), and PDF decks archived alongside web-ready slide PDFs.
+      </p>
+    </div>
+  </footer>
+
+  <script src="assets/talks_data.js?v=6"></script>
+  <script src="assets/app.js?v=6"></script>
+</body>
+</html>

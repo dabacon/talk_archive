@@ -1,0 +1,40 @@
+slug: "2002-iqi-funding-2002"
+title: "Entanglement at the Institute for Quantum Information"
+venue: "IQI Funding 2002"
+year: 2002
+date: "2002-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "IQIEntanglent1.ppt"
+primary_path: "talks/2002-iqi-funding-2002/original/IQIEntanglent1.ppt"
+primary_size_kb: 15215
+has_pdf: true
+pdf_path: "talks/2002-iqi-funding-2002/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2002-iqi-funding-2002/thumb.png"
+slide_count: 18
+tags:
+  - "Topological Quantum Computing"
+drafts:
+  - name: "IQIEntanglement1.ppt"
+    path: "talks/2002-iqi-funding-2002/original/drafts/IQIEntanglement1.ppt"
+    size_kb: 15215
+  - name: "IQIFunding.ppt"
+    path: "talks/2002-iqi-funding-2002/original/drafts/IQIFunding.ppt"
+    size_kb: 11206
+media:
+  - name: "sound004.wav"
+    path: "talks/2002-iqi-funding-2002/original/sound004.wav"
+    size_kb: 39
+  - name: "sound003.wav"
+    path: "talks/2002-iqi-funding-2002/original/sound003.wav"
+    size_kb: 21
+  - name: "sound002.wav"
+    path: "talks/2002-iqi-funding-2002/original/sound002.wav"
+    size_kb: 44
+  - name: "sound001.wav"
+    path: "talks/2002-iqi-funding-2002/original/sound001.wav"
+    size_kb: 30
+ps_files: []
+summary_snippet: "Dave Bacon — Postdoctoral Scholar at IQI • VIEW — Entanglement as the basic proving ground for understanding what makes quantum information science different — LOCALITY — Entanglement as a quintessential quantum phenomenon • When is a mixed state entangled? — What states admit local classical theories? — What is communication cost of simulating quantum correlations? — How can we develop a theory o"

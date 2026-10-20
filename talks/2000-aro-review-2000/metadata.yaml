@@ -1,0 +1,41 @@
+slug: "2000-aro-review-2000"
+title: "Quantum Computation with Quantum Dots:"
+venue: "ARO Review 2000"
+year: 2000
+date: "2000-01-01"
+category: "grant"
+primary_format: "PPT"
+primary_file: "aro_00c.ppt"
+primary_path: "talks/2000-aro-review-2000/original/aro_00c.ppt"
+primary_size_kb: 603
+has_pdf: true
+pdf_path: "talks/2000-aro-review-2000/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2000-aro-review-2000/thumb.png"
+slide_count: 20
+tags:
+  - "Quantum Error Correction"
+  - "Decoherence-Free Subspaces"
+  - "Hidden Subgroup Problem"
+  - "Quantum Simulation & Chemistry"
+  - "Program Review"
+drafts:
+  - name: "aro_00b.ppt"
+    path: "talks/2000-aro-review-2000/original/drafts/aro_00b.ppt"
+    size_kb: 563
+  - name: "aro_a.ppt"
+    path: "talks/2000-aro-review-2000/original/drafts/aro_a.ppt"
+    size_kb: 361
+  - name: "aro_00a.ppt"
+    path: "talks/2000-aro-review-2000/original/drafts/aro_00a.ppt"
+    size_kb: 194
+  - name: "aro_00.ppt"
+    path: "talks/2000-aro-review-2000/original/drafts/aro_00.ppt"
+    size_kb: 131
+  - name: "aroquad.ppt"
+    path: "talks/2000-aro-review-2000/original/drafts/aroquad.ppt"
+    size_kb: 123
+media: []
+ps_files: []
+summary_snippet: "Quantum Computation with Quantum Dots: — Decoherence and Fidelity Limits — K. B. Whaley, UC Berkeley — whaley@socrates.berkeley.edu / www.cchem.berkeley.edu/~kbwgrp • Research Plan — Quantum Computing with Quantum Dots: — Decoherence and Fidelity Limits — K. B. Whaley, UC Berkeley • Dave Bacon — University of California Berkeley — Departments of Physics and Chemistry • U(2) — Universal Quantum Com"

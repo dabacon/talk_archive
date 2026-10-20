@@ -1,0 +1,24 @@
+slug: "2007-uw-architecture-2007"
+title: "Quantum Computing Architectures"
+venue: "UW Architecture 2007"
+year: 2007
+date: "2007-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qarch.ppt"
+primary_path: "talks/2007-uw-architecture-2007/original/qarch.ppt"
+primary_size_kb: 3017
+has_pdf: true
+pdf_path: "talks/2007-uw-architecture-2007/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2007-uw-architecture-2007/thumb.png"
+slide_count: 31
+tags:
+  - "Quantum Error Correction"
+  - "Quantum Simulation & Chemistry"
+  - "Quantum Architecture & Ion Traps"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing Architectures — CSE 471 Lecture — May 31, 2007 — Dave Bacon • Behind the Bit — bits — noisy bits — quantum bit • Bit, Pbit, and Qubit — Configurations: — Description: — Observation: • Quantum Computers — 18819881292060796383869723946165043 — 98071635633794173827007633564229888 — 59715234665485319060606504743045317 • Quantum Simulations — Simulating quantum systems on classical co"

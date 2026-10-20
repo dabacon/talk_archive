@@ -1,0 +1,24 @@
+slug: "2007-oregon-2007"
+title: "Shor’s Algorithm"
+venue: "Oregon 2007"
+year: 2007
+date: "2007-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "ducks07.ppt"
+primary_path: "talks/2007-oregon-2007/original/ducks07.ppt"
+primary_size_kb: 13199
+has_pdf: true
+pdf_path: "talks/2007-oregon-2007/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2007-oregon-2007/thumb.png"
+slide_count: 53
+tags:
+  - "Quantum Error Correction"
+  - "Quantum Architecture & Ion Traps"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "When Physicists Build Quantum Algorithms — Dave Bacon — Department of Computer Science & Engineering — University of Washington • All Apologies • Quantum Computers — Quantum Computing for Science’s sake • Traditional Excitement — 1. Building a quantum computer — 2. Quantum computers break cryptosystems — 3. Quantum cryptography as physics based security • Quantum Computer? — “How can we simulate q"

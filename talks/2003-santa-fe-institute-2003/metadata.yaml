@@ -1,0 +1,23 @@
+slug: "2003-santa-fe-institute-2003"
+title: "Test Slide"
+venue: "Santa Fe Institute 2003"
+year: 2003
+date: "2003-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "sfi01.ppt"
+primary_path: "talks/2003-santa-fe-institute-2003/original/sfi01.ppt"
+primary_size_kb: 7948
+has_pdf: true
+pdf_path: "talks/2003-santa-fe-institute-2003/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2003-santa-fe-institute-2003/thumb.png"
+slide_count: 50
+tags:
+  - "Quantum Error Correction"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "SAT — MCAT — GRE • Quantum Computers — That Fix Themselves — Dave Bacon — Caltech • Red or Green? — Unanswerable • Is it a Computer? — Ship Rock — DNA Universal Computing — (pics from Eric Winfree’s lab) • The Computer Phase — System — Control — Environment"

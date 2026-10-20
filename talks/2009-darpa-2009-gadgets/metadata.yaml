@@ -1,0 +1,25 @@
+slug: "2009-darpa-2009-gadgets"
+title: "Gadgets"
+venue: "DARPA 2009 - Gadgets"
+year: 2009
+date: "2009-04-22"
+category: "grant"
+primary_format: "KEY"
+primary_file: "gadgets.key.zip"
+primary_path: "talks/2009-darpa-2009-gadgets/original/gadgets.key.zip"
+primary_size_kb: 4082
+has_pdf: true
+pdf_path: "talks/2009-darpa-2009-gadgets/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2009-darpa-2009-gadgets/thumb.png"
+slide_count: 18
+tags:
+  - "Program Review"
+drafts:
+  - name: "gadgets.ppt"
+    path: "talks/2009-darpa-2009-gadgets/original/drafts/gadgets.ppt"
+    size_kb: 882
+media: []
+ps_files: []
+summary_snippet: "Gadgets | 2-local interactions | 4-local interaction | interaction strength goes down • Gadgets | 2-local interactions | 4-local interaction | interaction strength goes down"

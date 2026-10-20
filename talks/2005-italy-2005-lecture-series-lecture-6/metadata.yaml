@@ -1,0 +1,24 @@
+slug: "2005-italy-2005-lecture-series-lecture-6"
+title: "Quantum Computing"
+venue: "Italy 2005 Lecture Series - Lecture 6"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "ItalyLecture6.ppt"
+primary_path: "talks/2005-italy-2005-lecture-series-lecture-6/original/ItalyLecture6.ppt"
+primary_size_kb: 6246
+has_pdf: true
+pdf_path: "talks/2005-italy-2005-lecture-series-lecture-6/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-italy-2005-lecture-series-lecture-6/thumb.png"
+slide_count: 88
+tags:
+  - "Quantum Simulation & Chemistry"
+  - "Quantum Architecture & Ion Traps"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing — Dave Bacon — Department of Computer Science & Engineering — University of Washington • Final Exam Plan — After this lecture. — 2. If you wrote up a solution and it is right: great! — If you are still struggling, we will talk about the problem, • But What Will It Look Like? — Solid State — Atomic — Molecular • DiVincenzo’s Criteria — David — DiVincenzo — 1. Well defined qubits i"

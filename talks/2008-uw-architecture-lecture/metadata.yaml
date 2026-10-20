@@ -1,0 +1,23 @@
+slug: "2008-uw-architecture-lecture"
+title: "Architectures for Quantum Computers"
+venue: "UW Architecture Lecture"
+year: 2008
+date: "2008-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qarch.ppt"
+primary_path: "talks/2008-uw-architecture-lecture/original/qarch.ppt"
+primary_size_kb: 11990
+has_pdf: true
+pdf_path: "talks/2008-uw-architecture-lecture/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-uw-architecture-lecture/thumb.png"
+slide_count: 57
+tags:
+  - "Quantum Simulation & Chemistry"
+  - "Quantum Architecture & Ion Traps"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Architectures for Quantum Computers — CSE 471 Lecture — June 2, 2006 — Dave Bacon • Quantum Slander — I think I can safely say that nobody — understands quantum mechanics. — Niels Bohr • Do not be intemidated by quantum physicists! • Today: Into the Quantum Void — What is a quantum computer? — What, really, is a quantum computer? — DiVincenzo’s criteria • New Sizes, New Rules — 10,000nm — 1,000nm "

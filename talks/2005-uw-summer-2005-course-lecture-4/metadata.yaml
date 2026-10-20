@@ -1,0 +1,22 @@
+slug: "2005-uw-summer-2005-course-lecture-4"
+title: "CSEP 590tv: Quantum Computing"
+venue: "UW Summer 2005 Course - Lecture 4"
+year: 2005
+date: "2005-01-01"
+category: "course"
+primary_format: "PPT"
+primary_file: "Lecture4.ppt"
+primary_path: "talks/2005-uw-summer-2005-course-lecture-4/original/Lecture4.ppt"
+primary_size_kb: 3008
+has_pdf: true
+pdf_path: "talks/2005-uw-summer-2005-course-lecture-4/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-uw-summer-2005-course-lecture-4/thumb.png"
+slide_count: 67
+tags:
+  - "Course Lecture"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "CSEP 590tv: Quantum Computing — Dave Bacon — July 13, 2005 — Today’s Menu • Administrivia — Hand in HW #2 — Pick up HW #3 (due July 20) — HW #1 solution available on website • Recap — Unitary rotations and measurements in different basis — Two qubits. — Separable versus Entangled. • Partial Measurements — Say we measure one of the two qubits of a two qubit system: — What are the probabilities of t"

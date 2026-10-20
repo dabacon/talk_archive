@@ -1,0 +1,23 @@
+slug: "2007-mit-2007"
+title: "Shor’s Algorithm"
+venue: "MIT 2007"
+year: 2007
+date: "2007-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "mit07.ppt"
+primary_path: "talks/2007-mit-2007/original/mit07.ppt"
+primary_size_kb: 7815
+has_pdf: true
+pdf_path: "talks/2007-mit-2007/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2007-mit-2007/thumb.png"
+slide_count: 61
+tags:
+  - "Adiabatic Quantum Computing"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Quantum Algorithms Using Clebsch-Gordan Transforms — Dave Bacon — Department of Computer Science & Engineering — University of Washington • Err…can you — fix my computer? — Smaller transistors, please! — Physicists and Computer Scientists • When Physics and Computer — Science Collide — Email I received from Wim van Dam about FOCS 2006: — Leslie Valiant in his great talk on 'accidental algorithms':"

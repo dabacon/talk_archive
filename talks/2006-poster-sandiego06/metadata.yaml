@@ -1,0 +1,25 @@
+slug: "2006-poster-sandiego06"
+title: "The Hidden Subgroup Conjugacy"
+venue: "Poster - sandiego06"
+year: 2006
+date: "2006-01-01"
+category: "poster"
+primary_format: "PPT"
+primary_file: "sandiego06.ppt"
+primary_path: "talks/2006-poster-sandiego06/original/sandiego06.ppt"
+primary_size_kb: 1908
+has_pdf: true
+pdf_path: "talks/2006-poster-sandiego06/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-poster-sandiego06/thumb.png"
+slide_count: 34
+tags:
+  - "Hidden Subgroup Problem"
+  - "Topological Quantum Computing"
+  - "Graph Isomorphism"
+  - "Poster"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "The Hidden Subgroup Conjugacy — Problem and Beyond — Dave Bacon — Computer Science & Engineering, University of Washington • State of the Art — Quantum Algorithms — Factoring, discrete log [Shor 94] — Unstructured search [Grover 96] • The Hidden Subgroup Problem — Setup: Fix a group (known) and a subgroup (unknown). Given query access to a function f : → S that is constant and distinct on left (ri"

@@ -1,0 +1,36 @@
+slug: "2003-australia-2003"
+title: "Climbing Mount Fault-Tolerance"
+venue: "Australia 2003"
+year: 2003
+date: "2003-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "au03new3.ppt"
+primary_path: "talks/2003-australia-2003/original/au03new3.ppt"
+primary_size_kb: 572
+has_pdf: true
+pdf_path: "talks/2003-australia-2003/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2003-australia-2003/thumb.png"
+slide_count: 15
+tags:
+  - "Quantum Error Correction"
+  - "Topological Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts:
+  - name: "au03new2.ppt"
+    path: "talks/2003-australia-2003/original/drafts/au03new2.ppt"
+    size_kb: 2932
+  - name: "au03new.ppt"
+    path: "talks/2003-australia-2003/original/drafts/au03new.ppt"
+    size_kb: 2932
+  - name: "au03.ppt"
+    path: "talks/2003-australia-2003/original/drafts/au03.ppt"
+    size_kb: 195
+  - name: "singleslide.ppt"
+    path: "talks/2003-australia-2003/original/drafts/singleslide.ppt"
+    size_kb: 69
+media: []
+ps_files: []
+summary_snippet: "Dave Bacon — Institute for Quantum Information — California Institute of Technology — A Trailhead: Supercoherent Qubits • AU-US — NSF — CDEST, AAS — elongated cumbersome • Computer Revolution = Physics — The Computer Science Assumption: robust digital storage and digital — manipulation of information is possible. — Theory: Von Neumann showed methods for fault-tolerant computation • The Lesson of t"

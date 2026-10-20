@@ -1,0 +1,26 @@
+slug: "2006-uw-condensed-matter-amo-2006"
+title: "Building Robust Qubits Using Many-Body Strongly Interacting Quantum Systems"
+venue: "UW Condensed Matter AMO 2006"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "valentines.ppt"
+primary_path: "talks/2006-uw-condensed-matter-amo-2006/original/valentines.ppt"
+primary_size_kb: 4474
+has_pdf: true
+pdf_path: "talks/2006-uw-condensed-matter-amo-2006/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-uw-condensed-matter-amo-2006/thumb.png"
+slide_count: 61
+tags:
+  - "Quantum Error Correction"
+  - "Topological Quantum Computing"
+  - "Quantum Simulation & Chemistry"
+  - "Quantum Architecture & Ion Traps"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Building Robust Qubits Using Many-Body Strongly Interacting Quantum Systems — Dave Bacon, Principal Research Scientist — Department of Computer Science & Engineering — University of Washington • Happy Valentine’s Day • Quantum World, Quantum Computers — “Nature isn't classical, dammit, and if you want to make a simulation of Nature, you'd better make it quantum mechanical, and by golly it's a wond"

@@ -1,0 +1,55 @@
+slug: "2003-perimeter-2003"
+title: "Test Slide"
+venue: "Perimeter 2003"
+year: 2003
+date: "2003-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "Boundary1.ppt"
+primary_path: "talks/2003-perimeter-2003/original/Boundary1.ppt"
+primary_size_kb: 7385
+has_pdf: true
+pdf_path: "talks/2003-perimeter-2003/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2003-perimeter-2003/thumb.png"
+slide_count: 46
+tags:
+  - "Complexity Theory & Automata"
+drafts: []
+media:
+  - name: "sound011.wav"
+    path: "talks/2003-perimeter-2003/original/sound011.wav"
+    size_kb: 19
+  - name: "sound005.wav"
+    path: "talks/2003-perimeter-2003/original/sound005.wav"
+    size_kb: 4
+  - name: "sound004.wav"
+    path: "talks/2003-perimeter-2003/original/sound004.wav"
+    size_kb: 30
+  - name: "sound010.wav"
+    path: "talks/2003-perimeter-2003/original/sound010.wav"
+    size_kb: 23
+  - name: "sound006.wav"
+    path: "talks/2003-perimeter-2003/original/sound006.wav"
+    size_kb: 5
+  - name: "sound013.wav"
+    path: "talks/2003-perimeter-2003/original/sound013.wav"
+    size_kb: 29
+  - name: "sound007.wav"
+    path: "talks/2003-perimeter-2003/original/sound007.wav"
+    size_kb: 10
+  - name: "sound003.wav"
+    path: "talks/2003-perimeter-2003/original/sound003.wav"
+    size_kb: 59
+  - name: "sound002.wav"
+    path: "talks/2003-perimeter-2003/original/sound002.wav"
+    size_kb: 4
+  - name: "sound001.wav"
+    path: "talks/2003-perimeter-2003/original/sound001.wav"
+    size_kb: 15
+  - name: "sound008.wav"
+    path: "talks/2003-perimeter-2003/original/sound008.wav"
+    size_kb: 21
+ps_files: []
+summary_snippet: "SAT — MCAT — GRE • Dave Bacon — Department of Physics — Institute for Quantum Information — Caltech • Ben Toner — graduate student (advisor: John Preskill) — Department of Physics — Institute for Quantum Information • Computers Obey Physics — Physics As Computation (?) • Computers Obey Physics — Quantum Computers — Physical Theories imply computational complexity classes? — (locality?, locality!, "

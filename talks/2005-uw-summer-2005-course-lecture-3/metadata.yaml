@@ -1,0 +1,23 @@
+slug: "2005-uw-summer-2005-course-lecture-3"
+title: "Puzzle"
+venue: "UW Summer 2005 Course - Lecture 3"
+year: 2005
+date: "2005-01-01"
+category: "course"
+primary_format: "PPT"
+primary_file: "Lecture3.ppt"
+primary_path: "talks/2005-uw-summer-2005-course-lecture-3/original/Lecture3.ppt"
+primary_size_kb: 2041
+has_pdf: true
+pdf_path: "talks/2005-uw-summer-2005-course-lecture-3/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-uw-summer-2005-course-lecture-3/thumb.png"
+slide_count: 54
+tags:
+  - "Topological Quantum Computing"
+  - "Course Lecture"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Puzzle — Twin primes are two prime numbers whose difference is two. — For example, 17 and 19 are twin primes. — Puzzle: Prove that for every twin prime with one prime greater • CSEP 590tv: Quantum Computing — Dave Bacon — July 6, 2005 — Today’s Menu • Administrivia — Hand in Homework #1 — Pick up Homework #2 — Is anyone not on the mailing list? • Recap — The description of a quantum system is a co"

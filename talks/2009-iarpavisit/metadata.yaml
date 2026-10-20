@@ -1,0 +1,30 @@
+slug: "2009-iarpavisit"
+title: "Some Quantum Computing Heresy"
+venue: "IARPAVisit"
+year: 2009
+date: "2009-11-10"
+category: "grant"
+primary_format: "PPT"
+primary_file: "IARPAQCBacon.ppt"
+primary_path: "talks/2009-iarpavisit/original/IARPAQCBacon.ppt"
+primary_size_kb: 1150
+has_pdf: true
+pdf_path: "talks/2009-iarpavisit/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2009-iarpavisit/thumb.png"
+slide_count: 6
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Program Review"
+drafts:
+  - name: "IARPA.ppt"
+    path: "talks/2009-iarpavisit/original/drafts/IARPA.ppt"
+    size_kb: 1150
+  - name: "IARPAQCBacon.pptx"
+    path: "talks/2009-iarpavisit/original/drafts/IARPAQCBacon.pptx"
+    size_kb: 674
+media: []
+ps_files: []
+summary_snippet: "Some Quantum Computing Heresy — Dave Bacon — Dept. of Computer Science & Engineering — University of Washington • The Central Dogma of Quantum Computing — Faulty quantum computing elements can be put together to build a quantum computer with a low probability of failure if the individual elements fail with small enough probability (the threshold) — The • Looking Nothing Like the Classical World — "

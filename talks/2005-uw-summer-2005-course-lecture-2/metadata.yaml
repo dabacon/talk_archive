@@ -1,0 +1,22 @@
+slug: "2005-uw-summer-2005-course-lecture-2"
+title: "CSEP 590tv: Quantum Computing"
+venue: "UW Summer 2005 Course - Lecture 2"
+year: 2005
+date: "2005-01-01"
+category: "course"
+primary_format: "PPT"
+primary_file: "Lecture2.ppt"
+primary_path: "talks/2005-uw-summer-2005-course-lecture-2/original/Lecture2.ppt"
+primary_size_kb: 2001
+has_pdf: true
+pdf_path: "talks/2005-uw-summer-2005-course-lecture-2/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-uw-summer-2005-course-lecture-2/thumb.png"
+slide_count: 64
+tags:
+  - "Course Lecture"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "CSEP 590tv: Quantum Computing — Dave Bacon — June 29, 2005 — Today’s Menu • Administrivia — Changes: slowing down. — Mailing list: sign up on sheet being passed around. — In class problems: hardness on the same order of magnitude • Last Week — Last week we saw that there is a big motivation for understanding — quantum computers. BIG PICTURE: understanding quantum — information processing machines "

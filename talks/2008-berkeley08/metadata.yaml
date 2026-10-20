@@ -1,0 +1,25 @@
+slug: "2008-berkeley08"
+title: "Doubling the Toric Code"
+venue: "Berkeley08"
+year: 2008
+date: "2008-10-30"
+category: "talk"
+primary_format: "KEY"
+primary_file: "Berkeley08.key.zip"
+primary_path: "talks/2008-berkeley08/original/Berkeley08.key.zip"
+primary_size_kb: 8770
+has_pdf: true
+pdf_path: "talks/2008-berkeley08/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-berkeley08/thumb.png"
+slide_count: 40
+tags:
+  - "Quantum Error Correction"
+  - "Topological Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+  - "Quantum Architecture & Ion Traps"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Doubling the Toric Code | Dave Bacon | Department of Computer Science & Engineering | Department of Physics • Apologies | No subwoofers will be used in this talk. • Heretical* | Physics is better suited for coming up with “good” | quantum codes than computer science. | At it’s heart physics is all about spatially local systems • Today | Examples of quantum error correcting architectures | which ha"

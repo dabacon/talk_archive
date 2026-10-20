@@ -1,0 +1,25 @@
+slug: "2008-uag-2008"
+title: "Quantum Computing"
+venue: "UAG 2008"
+year: 2008
+date: "2008-07-16"
+category: "talk"
+primary_format: "KEY"
+primary_file: "UAG2008.key.zip"
+primary_path: "talks/2008-uag-2008/original/UAG2008.key.zip"
+primary_size_kb: 5481
+has_pdf: true
+pdf_path: "talks/2008-uag-2008/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2008-uag-2008/thumb.png"
+slide_count: 55
+tags:
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "UAG2008.ppt"
+    path: "talks/2008-uag-2008/original/drafts/UAG2008.ppt"
+    size_kb: 3504
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing | Myth, Fact, and Potential | Dave Bacon | Department of Computer Science & Engineering • A Question | Where does the power ofcom | Where does the power of computers come from? | Ask google? • Can We Derive the Power of the Algorithm? | Physics | Computer Science | Students: Do we have to? • Some Simple Insights of Geniuses | Richard Feynman | Dave Deutsch | Laws of physics are q"

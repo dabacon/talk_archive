@@ -1,0 +1,25 @@
+slug: "2005-squint-ss-2005"
+title: "You Did Not Just Read This"
+venue: "SQUINT SS 2005"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "SquintLecture1.ppt"
+primary_path: "talks/2005-squint-ss-2005/original/SquintLecture1.ppt"
+primary_size_kb: 4426
+has_pdf: true
+pdf_path: "talks/2005-squint-ss-2005/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-squint-ss-2005/thumb.png"
+slide_count: 92
+tags:
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "Lecture1.ppt"
+    path: "talks/2005-squint-ss-2005/original/drafts/Lecture1.ppt"
+    size_kb: 78
+media: []
+ps_files: []
+summary_snippet: "You Did Not Just Read This — or did you? • SquInT: Quantum Algorithms — Dave Bacon — University of Washington — Department of Computer Science & Engineering • Southwest? — Southwest Airlines Route Map • Today — Two 1 Hour Lectures — (you poor souls) — Quantum Algorithms • Quantum Algorithms — “If I had a good idea in quantum algorithms that’s — what I’d be working on” – John Preskill, 2004 — What "

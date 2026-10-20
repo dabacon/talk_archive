@@ -1,0 +1,23 @@
+slug: "2005-uw-summer-2005-course-lecture-5"
+title: "CSEP 590tv: Quantum Computing"
+venue: "UW Summer 2005 Course - Lecture 5"
+year: 2005
+date: "2005-01-01"
+category: "course"
+primary_format: "PPT"
+primary_file: "Lecture5.ppt"
+primary_path: "talks/2005-uw-summer-2005-course-lecture-5/original/Lecture5.ppt"
+primary_size_kb: 3467
+has_pdf: true
+pdf_path: "talks/2005-uw-summer-2005-course-lecture-5/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-uw-summer-2005-course-lecture-5/thumb.png"
+slide_count: 53
+tags:
+  - "Quantum Teleportation & Gates"
+  - "Course Lecture"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "CSEP 590tv: Quantum Computing — Dave Bacon — July 20, 2005 — Today’s Menu • Administrivia — Turn in HW #3. It was meant to be harder than HWs #1 and #2. — Was it? — Pick up HW #4. It should be easier than HW #3. • Administrivia — July 20: multi qubit registers, begin quantum algorithms — July 27: quantum algorithms — Aug 3: quantum entanglement • Shuttling Around a Corner — Pictures snatched from "

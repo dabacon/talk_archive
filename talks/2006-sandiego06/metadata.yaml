@@ -1,0 +1,30 @@
+slug: "2006-sandiego06"
+title: "The Hidden Subgroup Conjugacy Problem and Beyond"
+venue: "SanDiego06"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "dabaconprogramreview06.ppt"
+primary_path: "talks/2006-sandiego06/original/dabaconprogramreview06.ppt"
+primary_size_kb: 2079
+has_pdf: true
+pdf_path: "talks/2006-sandiego06/slides.pdf"
+pdf_source: "converted_from_ps"
+has_thumb: true
+thumb_path: "talks/2006-sandiego06/thumb.png"
+slide_count: 1
+tags:
+  - "Hidden Subgroup Problem"
+  - "Topological Quantum Computing"
+  - "Graph Isomorphism"
+drafts: []
+media: []
+ps_files:
+  - name: "txp_figclean.ps"
+    path: "talks/2006-sandiego06/original/txp_figclean.ps"
+    size_kb: 16
+  - name: "txp_fig.ps"
+    path: "talks/2006-sandiego06/original/txp_fig.ps"
+    size_kb: 16
+summary_snippet: "The Hidden Subgroup Conjugacy Problem and Beyond — Dave Bacon, University of Washington — dabacon@gmail.com / http://www.cs.washington.edu/homes/dabacon/qw/ — Objective • The Hidden Subgroup Conjugacy Problem and Beyond — Dave Bacon, University of Washington — Progress on last years objectives — New start • Newbie — 1996: — 2005: — and • Results from Past Year + A Little — [Bacon, Childs, and van "

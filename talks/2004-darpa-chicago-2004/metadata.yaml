@@ -1,0 +1,43 @@
+slug: "2004-darpa-chicago-2004"
+title: "Test Slide"
+venue: "DARPA Chicago 2004"
+year: 2004
+date: "2004-01-01"
+category: "grant"
+primary_format: "PPT"
+primary_file: "theoryoverview5.ppt"
+primary_path: "talks/2004-darpa-chicago-2004/original/theoryoverview5.ppt"
+primary_size_kb: 2962
+has_pdf: true
+pdf_path: "talks/2004-darpa-chicago-2004/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2004-darpa-chicago-2004/thumb.png"
+slide_count: 27
+tags:
+  - "Quantum Error Correction"
+  - "Decoherence-Free Subspaces"
+  - "Topological Quantum Computing"
+  - "Program Review"
+drafts:
+  - name: "theoryoverview4.ppt"
+    path: "talks/2004-darpa-chicago-2004/original/drafts/theoryoverview4.ppt"
+    size_kb: 8391
+  - name: "theoryoverview3.ppt"
+    path: "talks/2004-darpa-chicago-2004/original/drafts/theoryoverview3.ppt"
+    size_kb: 4195
+  - name: "theoryoverview2.ppt"
+    path: "talks/2004-darpa-chicago-2004/original/drafts/theoryoverview2.ppt"
+    size_kb: 3874
+  - name: "theoryoverview1.ppt"
+    path: "talks/2004-darpa-chicago-2004/original/drafts/theoryoverview1.ppt"
+    size_kb: 3603
+  - name: "theoryoverview.ppt"
+    path: "talks/2004-darpa-chicago-2004/original/drafts/theoryoverview.ppt"
+    size_kb: 3428
+  - name: "theoryoverviewsmaller.ppt"
+    path: "talks/2004-darpa-chicago-2004/original/drafts/theoryoverviewsmaller.ppt"
+    size_kb: 2962
+media: []
+ps_files: []
+summary_snippet: "SAT — MCAT — GRE — LSAT • Towards Reliable — Quantum — Computers — Dave Bacon • Theory Goggles — Encoded Quantum Information — Quantum Error Correcting Codes — Degenerate • Quantum Digital? — Classical Computer — Quantum Physics Experiment — Is a Quantum Computer really a Computer? • Five Problems — 1. quantum data is analog — 3. quantum evolution is analog — 4. quantum preparation is imprecise"

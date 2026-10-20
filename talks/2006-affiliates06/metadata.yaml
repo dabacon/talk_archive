@@ -1,0 +1,24 @@
+slug: "2006-affiliates06"
+title: "How to Build a"
+venue: "Affiliates06"
+year: 2006
+date: "2006-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "davebaconaffiliates06.ppt"
+primary_path: "talks/2006-affiliates06/original/davebaconaffiliates06.ppt"
+primary_size_kb: 11762
+has_pdf: true
+pdf_path: "talks/2006-affiliates06/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2006-affiliates06/thumb.png"
+slide_count: 15
+tags:
+  - "Quantum Error Correction"
+  - "Quantum Architecture & Ion Traps"
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "How to Build a — Quantum Computer — Dave Bacon — Department of Computer Science & Engineering • Behind the Bit — bits — noisy bits — quantum bits • Quantum Computer? — Richard Feynman — “How can we simulate quantum mechanics? ...Can we do it with a new kind of computer… a quantum computer? It’s not a Turing machine but a machine of a different kind” - Richard Feynman (1981) — probabili • Subtracti"

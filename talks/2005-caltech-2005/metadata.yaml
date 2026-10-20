@@ -1,0 +1,27 @@
+slug: "2005-caltech-2005"
+title: "The Quantum Compass Model"
+venue: "Caltech 2005"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qcm.ppt"
+primary_path: "talks/2005-caltech-2005/original/qcm.ppt"
+primary_size_kb: 1854
+has_pdf: true
+pdf_path: "talks/2005-caltech-2005/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-caltech-2005/thumb.png"
+slide_count: 35
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Topological Quantum Computing"
+drafts:
+  - name: "qmc.ppt"
+    path: "talks/2005-caltech-2005/original/drafts/qmc.ppt"
+    size_kb: 101
+media: []
+ps_files: []
+summary_snippet: "The Quantum Compass Model — Dave Bacon — Department of Computer Science & Engineering — University of Washington • Kitaev’s Idea — Are there many-body quantum systems which can be used — to robustly store quantum information and keep this — information coherent during fault-tolerant computation with • Quantum Compass Model — [B. Douçot, M. V. Feigel’man, L. B. Ioffe, and A. S. Ioselevich 05] — [Do"

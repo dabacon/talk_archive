@@ -1,0 +1,24 @@
+slug: "2009-michiganphysics09"
+title: "The Race to Build a Quantum Computer"
+venue: "MichiganPhysics09"
+year: 2009
+date: "2009-09-11"
+category: "talk"
+primary_format: "KEY"
+primary_file: "colloquiummich.key.zip"
+primary_path: "talks/2009-michiganphysics09/original/colloquiummich.key.zip"
+primary_size_kb: 16893
+has_pdf: true
+pdf_path: "talks/2009-michiganphysics09/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2009-michiganphysics09/thumb.png"
+slide_count: 86
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "The Race to Build a Quantum Computer | Dave Bacon | University of Washington | XX • ENIAC, 1946 | 17,468 vacuum tubes | 7,200 crystal diodes | 1,500 relays • Alternative History | Imagine: no transistors, no integrated circuits... | Could we build a computer out of unreliable components? | J. von Neumann, “Probabilistic Logics and the Synthesis of Reliable Organism from Unreliable Components” 19 •"

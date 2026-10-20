@@ -1,0 +1,33 @@
+slug: "2001-qualifying-exam-2001"
+title: "Symmetry and Decoherence in"
+venue: "Qualifying Exam 2001"
+year: 2001
+date: "2001-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "qualv4.ppt"
+primary_path: "talks/2001-qualifying-exam-2001/original/qualv4.ppt"
+primary_size_kb: 753
+has_pdf: true
+pdf_path: "talks/2001-qualifying-exam-2001/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2001-qualifying-exam-2001/thumb.png"
+slide_count: 34
+tags:
+  - "Quantum Error Correction"
+  - "Decoherence-Free Subspaces"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "qualv3.ppt"
+    path: "talks/2001-qualifying-exam-2001/original/drafts/qualv3.ppt"
+    size_kb: 770
+  - name: "qualv2.ppt"
+    path: "talks/2001-qualifying-exam-2001/original/drafts/qualv2.ppt"
+    size_kb: 682
+  - name: "qualv1.ppt"
+    path: "talks/2001-qualifying-exam-2001/original/drafts/qualv1.ppt"
+    size_kb: 682
+media: []
+ps_files: []
+summary_snippet: "Symmetry and Decoherence in — Quantum Computers — Qualifying Exam Talk — March, 2001 • Outline — Motivation — Quantum error correction — Decoherence and symmetry • Information is Physical + Physics is Quantum — = Quantum Computation — Quantum information processor (unbeautified model) — information: states of multiple quantum systems • Why Quantum Compute? — Quantum computers can compute algorithm"

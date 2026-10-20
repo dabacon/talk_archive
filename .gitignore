@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+tmp_preview.jpg
+scripts/qlhtml2pdf
+data/ppt_stage/
+data/qlpreviews/
+data/key_stage/
+data/key_qlpreviews/
+data/discovery_results.json
+data/manifest.json
+data/inventory_report.md

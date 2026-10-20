@@ -1,0 +1,23 @@
+slug: "2003-mit-2003-qip"
+title: "Quantum Computers"
+venue: "MIT 2003 QIP"
+year: 2003
+date: "2003-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "mit01.ppt"
+primary_path: "talks/2003-mit-2003-qip/original/mit01.ppt"
+primary_size_kb: 9422
+has_pdf: true
+pdf_path: "talks/2003-mit-2003-qip/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2003-mit-2003-qip/thumb.png"
+slide_count: 48
+tags:
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Quantum Computers — That Fix Themselves — Dave Bacon — Caltech • The Enemy? • 57 Nobel Prizes — 27 Nobel Prizes — 0.01 Nobel Prizes / Capita — 0.005 Nobel Prizes / Capita • Castor canadenis — Caltech • The Quantum Computing Roadmap — NIST Boulder Ions"

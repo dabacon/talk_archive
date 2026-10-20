@@ -1,0 +1,22 @@
+slug: "2009-unm-physics-seminar-2009"
+title: "The Symmetry Conjecture in Quantum Algorithms"
+venue: "UNM Physics Seminar 2009"
+year: 2009
+date: "2009-02-05"
+category: "talk"
+primary_format: "KEY"
+primary_file: "seminar.key.zip"
+primary_path: "talks/2009-unm-physics-seminar-2009/original/seminar.key.zip"
+primary_size_kb: 5594
+has_pdf: true
+pdf_path: "talks/2009-unm-physics-seminar-2009/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2009-unm-physics-seminar-2009/thumb.png"
+slide_count: 92
+tags:
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "The Symmetry Conjecture in Quantum Algorithms | Dave Bacon | University of Washington • Quantum Algorithms | 18819881292060796383869723946165043 | 98071635633794173827007633564229888 | 59715234665485319060606504743045317 • A Golden Era | Email I received from Wim van Dam about FOCS 2006: | Leslie Valiant in his great talk on 'accidental algorithms': \"We have all these complexity classes, and we do"

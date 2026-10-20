@@ -1,0 +1,25 @@
+slug: "2004-oregon-state-2004-tales-from-the-boundary"
+title: "Test Slide"
+venue: "Oregon State 2004 - Tales from the Boundary"
+year: 2004
+date: "2004-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "boundaryoregon1.ppt"
+primary_path: "talks/2004-oregon-state-2004-tales-from-the-boundary/original/boundaryoregon1.ppt"
+primary_size_kb: 8824
+has_pdf: true
+pdf_path: "talks/2004-oregon-state-2004-tales-from-the-boundary/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2004-oregon-state-2004-tales-from-the-boundary/thumb.png"
+slide_count: 60
+tags:
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "talesfromboundary.ppt"
+    path: "talks/2004-oregon-state-2004-tales-from-the-boundary/original/drafts/talesfromboundary.ppt"
+    size_kb: 10718
+media: []
+ps_files: []
+summary_snippet: "SAT — MCAT — GRE — TOEFL • Tales from the Boundary of — Physics and Computer Science — Dave Bacon — Caltech • Mountains • Talk Outline • Al Gore — George Bush — Ralph Nader — Pat Buchanan"

@@ -1,0 +1,22 @@
+slug: "2011-qec11"
+title: "Quantum Error Correcting Codes For Locavores"
+venue: "QEC11"
+year: 2011
+date: "2011-12-06"
+category: "talk"
+primary_format: "KEY"
+primary_file: "locavore.key.zip"
+primary_path: "talks/2011-qec11/original/locavore.key.zip"
+primary_size_kb: 8990
+has_pdf: true
+pdf_path: "talks/2011-qec11/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2011-qec11/thumb.png"
+slide_count: 41
+tags:
+  - "Quantum Error Correction"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Quantum Error Correcting Codes For Locavores | Dave Bacon* and Jonathan Shi | University of Washington | *= decohered to Google • Thanks Daniel! • But Why? • Quantum Error Correction | Text | Time | Complicated, time dependent recipe for protecting quantum information • Stabilizer Codes | [[7,1,3]] Steane code | row = stabilizer | column = qubit"

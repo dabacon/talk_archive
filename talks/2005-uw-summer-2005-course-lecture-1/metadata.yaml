@@ -1,0 +1,25 @@
+slug: "2005-uw-summer-2005-course-lecture-1"
+title: "CSEP 590tv: Quantum Computing"
+venue: "UW Summer 2005 Course - Lecture 1"
+year: 2005
+date: "2005-01-01"
+category: "course"
+primary_format: "PPT"
+primary_file: "Lecture1.ppt"
+primary_path: "talks/2005-uw-summer-2005-course-lecture-1/original/Lecture1.ppt"
+primary_size_kb: 5286
+has_pdf: true
+pdf_path: "talks/2005-uw-summer-2005-course-lecture-1/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-uw-summer-2005-course-lecture-1/thumb.png"
+slide_count: 96
+tags:
+  - "Adiabatic Quantum Computing"
+  - "Quantum Simulation & Chemistry"
+  - "Complexity Theory & Automata"
+  - "Course Lecture"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "CSEP 590tv: Quantum Computing — Dave Bacon — June 22, 2005 — Today’s Menu • Administrivia — Le Syllabus — Course website: http://www.cs.washington.edu/csep590 — [power point, homework assignments, solutions] • Administrivia — Textbook: — “Quantum Computation and Quantum Information” — by Michael Nielsen and Isaac Chuang • Administrivia — Homework: due in class the week after handed out — 1. Extra "

@@ -1,0 +1,40 @@
+slug: "2008-aro-2008-review"
+title: "Robust Quantum Gadgets"
+venue: "ARO 2008 Review"
+year: 2008
+date: "2008-07-24"
+category: "grant"
+primary_format: "KEY"
+primary_file: "fiveslidesnew.key.zip"
+primary_path: "talks/2008-aro-2008-review/original/fiveslidesnew.key.zip"
+primary_size_kb: 3931
+has_pdf: true
+pdf_path: "talks/2008-aro-2008-review/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-aro-2008-review/thumb.png"
+slide_count: 6
+tags:
+  - "Quantum Error Correction"
+  - "Self-Correcting Quantum Memory"
+  - "Quantum Simulation & Chemistry"
+  - "Program Review"
+drafts:
+  - name: "reviewbacon08.key.zip"
+    path: "talks/2008-aro-2008-review/original/drafts/reviewbacon08.key.zip"
+    size_kb: 11381
+  - name: "quadchartBacon08.key.zip"
+    path: "talks/2008-aro-2008-review/original/drafts/quadchartBacon08.key.zip"
+    size_kb: 294
+  - name: "reviewbacon08.ppt"
+    path: "talks/2008-aro-2008-review/original/drafts/reviewbacon08.ppt"
+    size_kb: 4145
+  - name: "quadchartBacon08.ppt"
+    path: "talks/2008-aro-2008-review/original/drafts/quadchartBacon08.ppt"
+    size_kb: 684
+  - name: "fiveslides.ppt"
+    path: "talks/2008-aro-2008-review/original/drafts/fiveslides.ppt"
+    size_kb: 964
+media: []
+ps_files: []
+summary_snippet: "Robust Quantum Gadgets | Dave Bacon | Department of Computer Science & Engineering | Department of Physics • Self-Correcting Computers | Why does you hard drive robustly store information? | Spin flip errors cost energy proportional to the perimeter of the flipped region | At low enough temperature, “cooling” wins over “heating” and the informatio • Self-Correcting Quantum Computers | How: Build m"

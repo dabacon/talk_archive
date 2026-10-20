@@ -1,0 +1,22 @@
+slug: "2010-jqinist"
+title: "Help! There’s a Computer in My Physical System!"
+venue: "JQINIST"
+year: 2010
+date: "2010-10-27"
+category: "talk"
+primary_format: "KEY"
+primary_file: "help.key.zip"
+primary_path: "talks/2010-jqinist/original/help.key.zip"
+primary_size_kb: 13561
+has_pdf: true
+pdf_path: "talks/2010-jqinist/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2010-jqinist/thumb.png"
+slide_count: 42
+tags:
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Help! There’s a Computer in My Physical System! | Dave Bacon | University of Washington | Ken • Warning! | The work described in this talk was inspired | by the novel “Mathematicians in Love.” | Rudy Rucker near a portal • Motivations | Computers can efficiently simulate other computers. | Physical systems that act like computers should be | easy to simulate. • Cook-Levin Theorem | Theorem: the Bo"

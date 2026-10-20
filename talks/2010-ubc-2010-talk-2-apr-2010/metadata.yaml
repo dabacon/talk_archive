@@ -1,0 +1,24 @@
+slug: "2010-ubc-2010-talk-2-apr-2010"
+title: "Adiabatic Cluster State Quantum Computing"
+venue: "UBC 2010 - Talk 2 (Apr 2010)"
+year: 2010
+date: "2010-04-08"
+category: "talk"
+primary_format: "KEY"
+primary_file: "ubc.key.zip"
+primary_path: "talks/2010-ubc-2010-talk-2-apr-2010/original/ubc.key.zip"
+primary_size_kb: 7150
+has_pdf: true
+pdf_path: "talks/2010-ubc-2010-talk-2-apr-2010/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2010-ubc-2010-talk-2-apr-2010/thumb.png"
+slide_count: 40
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Quantum Teleportation & Gates"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Adiabatic Cluster State Quantum Computing | - or - | Anything you can do, I can do adiabatically | I can do anything sssllllooooowwwweeeerrrrr than you • Quantum Computers | 1994 | 1995 | 2002 • Why Don’t We Have a Quantum Computer Yet? • A Plan! | http://qist.lanl.gov/qcomp_map.shtml | 2002 and 2004 roadmap: • 1. “scalable” system of qubits | 2. qubit initialization | 3. long decoherence times | "

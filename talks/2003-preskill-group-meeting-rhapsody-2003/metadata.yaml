@@ -1,0 +1,27 @@
+slug: "2003-preskill-group-meeting-rhapsody-2003"
+title: "Statistical Physics, Fault-Tolerance, Subsystem Codes, and Quantum Monte Carlo"
+venue: "Preskill Group Meeting Rhapsody 2003"
+year: 2003
+date: "2003-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "rhapsody2.ppt"
+primary_path: "talks/2003-preskill-group-meeting-rhapsody-2003/original/rhapsody2.ppt"
+primary_size_kb: 4830
+has_pdf: true
+pdf_path: "talks/2003-preskill-group-meeting-rhapsody-2003/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2003-preskill-group-meeting-rhapsody-2003/thumb.png"
+slide_count: 35
+tags:
+  - "Quantum Error Correction"
+  - "Topological Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts:
+  - name: "rhapsody1.ppt"
+    path: "talks/2003-preskill-group-meeting-rhapsody-2003/original/drafts/rhapsody1.ppt"
+    size_kb: 1879
+media: []
+ps_files: []
+summary_snippet: "Statistical Physics, Fault-Tolerance, Subsystem Codes, and Quantum Monte Carlo — Dave Bacon — Preskill Group Meeting, April 24 2003 — Rhapsody on a Theme by Kitaev • The Quantum Computing Roadmap • Have We Learned Anything? — 1941 – First programmable electronic calculator. — mechanical relays. — 1943 – ENIAC. • History Only Teaches Me Physics — ordered — regular — reducible • The Physics Guarante"

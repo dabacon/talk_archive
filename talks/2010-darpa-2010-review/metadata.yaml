@@ -1,0 +1,32 @@
+slug: "2010-darpa-2010-review"
+title: "Adiabatic Quantum Transistors"
+venue: "DARPA 2010 Review"
+year: 2010
+date: "2011-01-19"
+category: "grant"
+primary_format: "KEY"
+primary_file: "Bacon_DARPA2010.key.zip"
+primary_path: "talks/2010-darpa-2010-review/original/Bacon_DARPA2010.key.zip"
+primary_size_kb: 10432
+has_pdf: true
+pdf_path: "talks/2010-darpa-2010-review/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2010-darpa-2010-review/thumb.png"
+slide_count: 48
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Topological Quantum Computing"
+  - "Quantum Teleportation & Gates"
+  - "Program Review"
+drafts:
+  - name: "DARPA1.key.zip"
+    path: "talks/2010-darpa-2010-review/original/drafts/DARPA1.key.zip"
+    size_kb: 5485
+  - name: "darpaslides.key.zip"
+    path: "talks/2010-darpa-2010-review/original/drafts/darpaslides.key.zip"
+    size_kb: 3078
+media: []
+ps_files: []
+summary_snippet: "Adiabatic Quantum Transistors | Dave Bacon | University of Washington | DARPA QuEST Grant: “Robust Quantum Gadgets” • Experimentalists... | Do you have qubits with... | Do you tear your hair out dealing with timing errors? | exchange interactions? • Robust Quantum Gadgets | Quantum error correction via designer Hamiltonians | Amplifying gadgets (see Poster) | Fault-tolerant bang-bang stabilizer Ha"

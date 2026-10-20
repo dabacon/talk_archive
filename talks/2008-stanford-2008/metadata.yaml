@@ -1,0 +1,24 @@
+slug: "2008-stanford-2008"
+title: "Punching Holes and Quantum Fault-Tolerance"
+venue: "Stanford 2008"
+year: 2008
+date: "2008-10-28"
+category: "talk"
+primary_format: "KEY"
+primary_file: "Stanford08.key.zip"
+primary_path: "talks/2008-stanford-2008/original/Stanford08.key.zip"
+primary_size_kb: 15188
+has_pdf: true
+pdf_path: "talks/2008-stanford-2008/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-stanford-2008/thumb.png"
+slide_count: 50
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Punching Holes and Quantum Fault-Tolerance | Dave Bacon | Department of Computer Science & Engineering | Department of Physics • ENIAC, 1946 | 17,468 vacuum tubes | 7,200 crystal diodes | 1,500 relays • Alternative History | Imagine: no transistors, no integrated circuits... | Could we build a computer out of unreliable components? | J. von Neumann, “Probabilistic Logics and the Synthesis of Relia"

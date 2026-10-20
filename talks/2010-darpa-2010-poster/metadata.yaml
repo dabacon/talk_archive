@@ -1,0 +1,26 @@
+slug: "2010-darpa-2010-poster"
+title: "Robust Quantum Gadgets"
+venue: "DARPA 2010 Poster"
+year: 2010
+date: "2010-04-09"
+category: "poster"
+primary_format: "KEY"
+primary_file: "Poster.key.zip"
+primary_path: "talks/2010-darpa-2010-poster/original/Poster.key.zip"
+primary_size_kb: 5891
+has_pdf: true
+pdf_path: "talks/2010-darpa-2010-poster/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2010-darpa-2010-poster/thumb.png"
+slide_count: 19
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+  - "Quantum Simulation & Chemistry"
+  - "Poster"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Robust Quantum Gadgets | QW (“Q-dub”) Group at the University of Washington | PI: | Dave Bacon • Two Projects | Project 1: Identify self-correcting / energy protecting quantum systems using realistic assumptions | Project 2: Address the fault-tolerance of universal adiabatic quantum computing | superposition over • 1a: Perturbation Theory Gadgets | 2-local interactions | 4-local interaction | Inte"

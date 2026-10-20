@@ -1,0 +1,36 @@
+slug: "2001-snowbird-physics-of-quantum-electronics-2001"
+title: "Quantum Computing with the Exchange Interaction"
+venue: "Snowbird Physics of Quantum Electronics 2001"
+year: 2001
+date: "2001-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "bird2.ppt"
+primary_path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/original/bird2.ppt"
+primary_size_kb: 410
+has_pdf: true
+pdf_path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/thumb.png"
+slide_count: 13
+tags:
+  - "Hidden Subgroup Problem"
+  - "Quantum Simulation & Chemistry"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "bird1.ppt"
+    path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/original/drafts/bird1.ppt"
+    size_kb: 352
+  - name: "birdrecov.ppt"
+    path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/original/drafts/birdrecov.ppt"
+    size_kb: 354
+  - name: "bird0.ppt"
+    path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/original/drafts/bird0.ppt"
+    size_kb: 174
+  - name: "snowbird.ppt"
+    path: "talks/2001-snowbird-physics-of-quantum-electronics-2001/original/drafts/snowbird.ppt"
+    size_kb: 170
+media: []
+ps_files: []
+summary_snippet: "Quantum Computing with the Exchange Interaction — spin quantum computers without single spin control — Dave Bacon — Department of Physics and Department of Chemistry • Alan — Turing — Richard — Feynman • Quantum Circuit Model — wire = carrier of quantum information (qubit {|0• , |1• }, qudit {|0• , |1• ,…., |d• } — gate = time evolution of the quantum information — Universal Sets of Quantum Gates "

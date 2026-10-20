@@ -1,0 +1,25 @@
+slug: "2008-cifar-2008"
+title: "The War To Build a Quantum Computer"
+venue: "CIFAR 2008"
+year: 2008
+date: "2008-11-15"
+category: "talk"
+primary_format: "KEY"
+primary_file: "cifar.key.zip"
+primary_path: "talks/2008-cifar-2008/original/cifar.key.zip"
+primary_size_kb: 9715
+has_pdf: true
+pdf_path: "talks/2008-cifar-2008/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-cifar-2008/thumb.png"
+slide_count: 30
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Hidden Subgroup Problem"
+  - "Topological Quantum Computing"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "The War To Build a Quantum Computer | Dave Bacon | University of Washington • D-Wave joke deleted by Canadian border control • ENIAC, 1946 | 17,468 vacuum tubes | 7,200 crystal diodes | 1,500 relays • Alternative History | Imagine: no transistors, no integrated circuits, just unreliable components... | Could we build a computer out of unreliable components? | J. von Neumann, “Probabilistic Logics "

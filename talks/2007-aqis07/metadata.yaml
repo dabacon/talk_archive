@@ -1,0 +1,23 @@
+slug: "2007-aqis07"
+title: "Recent Progress In Quantum Algorithms"
+venue: "aqis07"
+year: 2007
+date: "2007-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "aqis07.ppt"
+primary_path: "talks/2007-aqis07/original/aqis07.ppt"
+primary_size_kb: 2249
+has_pdf: true
+pdf_path: "talks/2007-aqis07/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2007-aqis07/thumb.png"
+slide_count: 49
+tags:
+  - "Hidden Subgroup Problem"
+  - "Graph Isomorphism"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Dave Bacon — University of Washington — AQIS07 [Kyoto, Japan, September 2007] • The Goal of This Talk — 80s-early 90s: foundational work — 1994: Shor’s algorithm — 1996: Grover’s algorithm • HELP WANTED Quantum programmer. Only skill necessary is ability to type in large RSA keys. Salary commiserates with expe — HELP WANTED Real estate agent. Best market since bubble popped in 07. Join a dedicated"

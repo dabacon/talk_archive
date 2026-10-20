@@ -1,0 +1,24 @@
+slug: "2008-poster-australia"
+title: "Climbing Mount Fault-Tolerance"
+venue: "Poster - australia"
+year: 2008
+date: "2008-01-01"
+category: "poster"
+primary_format: "PPT"
+primary_file: "australia.ppt"
+primary_path: "talks/2008-poster-australia/original/australia.ppt"
+primary_size_kb: 227
+has_pdf: true
+pdf_path: "talks/2008-poster-australia/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2008-poster-australia/thumb.png"
+slide_count: 8
+tags:
+  - "Quantum Error Correction"
+  - "Self-Correcting Quantum Memory"
+  - "Poster"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Dave Bacon — Institute for Quantum Information — California Institute of Technology — A Trailhead: Supercoherent Qubits • Computer Revolution = Physics — The Computer Science Assumption: robust digital storage and digital — manipulation of information is possible. — Theory: Von Neumann showed methods for fault-tolerant computation • system — bath — HI = perturbative system-bath coupling — HI energ"

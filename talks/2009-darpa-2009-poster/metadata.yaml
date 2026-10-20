@@ -1,0 +1,26 @@
+slug: "2009-darpa-2009-poster"
+title: "Robust Quantum Gadgets"
+venue: "DARPA 2009 Poster"
+year: 2009
+date: "2009-01-25"
+category: "poster"
+primary_format: "KEY"
+primary_file: "poster.key.zip"
+primary_path: "talks/2009-darpa-2009-poster/original/poster.key.zip"
+primary_size_kb: 4925
+has_pdf: true
+pdf_path: "talks/2009-darpa-2009-poster/slides.pdf"
+pdf_source: "original_export"
+has_thumb: true
+thumb_path: "talks/2009-darpa-2009-poster/thumb.png"
+slide_count: 18
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Self-Correcting Quantum Memory"
+  - "Quantum Simulation & Chemistry"
+  - "Poster"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Robust Quantum Gadgets | University of Washington | Department of Computer Science & Engineering | Department of Physics • The Physics Approach to Quantum Error Correction | QEC | (Quantum) error correction is nothing more than a sophisticated refrigeration process...can we build physical systems where quantum error correction is achieved by simply keeping the  • Self-Correcting Quantum Computers "

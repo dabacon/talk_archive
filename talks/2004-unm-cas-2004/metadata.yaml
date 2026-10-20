@@ -1,0 +1,26 @@
+slug: "2004-unm-cas-2004"
+title: "Quantum Algorithms"
+venue: "UNM CAS 2004"
+year: 2004
+date: "2004-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "algo2.ppt"
+primary_path: "talks/2004-unm-cas-2004/original/algo2.ppt"
+primary_size_kb: 4071
+has_pdf: true
+pdf_path: "talks/2004-unm-cas-2004/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2004-unm-cas-2004/thumb.png"
+slide_count: 39
+tags:
+  - "Quantum Simulation & Chemistry"
+  - "Complexity Theory & Automata"
+drafts:
+  - name: "algo1.ppt"
+    path: "talks/2004-unm-cas-2004/original/drafts/algo1.ppt"
+    size_kb: 2727
+media: []
+ps_files: []
+summary_snippet: "Quantum Algorithms — 18819881292060796383869 — 72394616504398071635633 — 79417382700763356422988 • Quantum Algorithms — Dave Bacon — Santa Fe Institute — Do Physicists Make Good • Computation and Science — Alan Turing — John von Neumann — Blue state • Simulation Revolution — copyright © ONERA 1996-2004 — Bryan and Norman (UIUC, NCSA, GC3) — Computer Hardware, Advanced Mathematics • Data Revolution"

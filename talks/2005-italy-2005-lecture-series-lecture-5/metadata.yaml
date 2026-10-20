@@ -1,0 +1,22 @@
+slug: "2005-italy-2005-lecture-series-lecture-5"
+title: "Sudoku"
+venue: "Italy 2005 Lecture Series - Lecture 5"
+year: 2005
+date: "2005-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "ItalyLecture5.ppt"
+primary_path: "talks/2005-italy-2005-lecture-series-lecture-5/original/ItalyLecture5.ppt"
+primary_size_kb: 30446
+has_pdf: true
+pdf_path: "talks/2005-italy-2005-lecture-series-lecture-5/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2005-italy-2005-lecture-series-lecture-5/thumb.png"
+slide_count: 74
+tags:
+  - "Complexity Theory & Automata"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "Sudoku — For those of you who are totally bored…. • Quantum Computing — Dave Bacon — Department of Computer Science & Engineering — University of Washington • Review — David — Deutsch — Richard • Review — qubits — Deutsch-Jozsa Algorithm — Bernsetein-Vazirani Algorithm • Review — Dan — Simon — 1994: Simon’s Algorithm"

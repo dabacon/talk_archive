@@ -1,0 +1,24 @@
+slug: "2003-microsoft-2003-topological-quantum-computing"
+title: "There’s Plenty of Room"
+venue: "Microsoft 2003 - Topological Quantum Computing"
+year: 2003
+date: "2003-01-01"
+category: "talk"
+primary_format: "PPT"
+primary_file: "microtop.ppt"
+primary_path: "talks/2003-microsoft-2003-topological-quantum-computing/original/microtop.ppt"
+primary_size_kb: 10431
+has_pdf: true
+pdf_path: "talks/2003-microsoft-2003-topological-quantum-computing/slides.pdf"
+pdf_source: "reconstructed_from_deck"
+has_thumb: true
+thumb_path: "talks/2003-microsoft-2003-topological-quantum-computing/thumb.png"
+slide_count: 74
+tags:
+  - "Quantum Error Correction"
+  - "Adiabatic Quantum Computing"
+  - "Topological Quantum Computing"
+drafts: []
+media: []
+ps_files: []
+summary_snippet: "There’s Plenty of Room — at the Top — An Invitation to Help Start the Quantum Computing Revolution — Dave Bacon • All Apologies • Quantum Algorithms — The Big Two — (what everyone should be working on in quantum computing) — What Will be THE Quantum • Physics and Computation — The Computer Science Assumption: robust digital storage and digital — manipulation of information is possible. — Theory: V"
